@@ -1,0 +1,1801 @@
+DATE,CATEGORIES,PAYMENT_MODE,DESCRIPTION,AMOUNTS,CASHBACK
+2024-01-18,Travel,Paypal,Accommodation,8635.62,86.53
+2024-01-13,Entertainment,Bank_transfer,Went to movies,9774.09,872.31
+2024-01-19,Travel,Bank_transfer,Accommodation,7497.73,521.07
+2024-01-13,Subscription,Debit_card,Amazon Prime,3715.84,310.69
+2024-01-27,Entertainment,Credit_card,Tour,9705.74,810.7
+2024-01-26,Utilities,Debit_card,Electricity bill,1300.17,42.74
+2024-01-07,Utilities,Paytm,Electricity bill,3607.48,78.89
+2024-01-16,Utilities,Gpay,Internet bill,3827.02,138.1
+2024-01-03,Entertainment,Paytm,Went to movies,1010.99,24.41
+2024-01-10,Rent,Cash,Monthly house rent,1505.01,112.58
+2024-01-30,Travel,Bank_transfer,Accommodation,6407.04,362.16
+2024-01-21,Groceries,Bank_transfer,Monthly groceries,4109.35,213.74
+2024-01-14,Utilities,Paytm,Water bill,7710.0,241.28
+2024-01-26,Utilities,Check,Electricity bill,4067.14,192.93
+2024-01-02,Insurance,Check,Car,1572.35,22.01
+2024-01-28,Travel,Credit_card,Transportation,9775.11,930.1
+2024-01-02,Utilities,Gpay,Internet bill,5848.32,276.14
+2024-01-16,Groceries,Check,Monthly groceries,3743.06,28.76
+2024-01-18,Entertainment,Cash,Went to movies,1446.72,113.88
+2024-01-29,Entertainment,Gpay,Went to movies,1481.58,131.94
+2024-01-29,Rent,Debit_card,Monthly house rent,6853.17,434.35
+2024-01-23,Subscription,Paytm,Netflix,6409.99,317.84
+2024-01-18,Entertainment,Paypal,Went to movies,3620.52,51.94
+2024-01-19,Subscription,Bank_transfer,Netflix,3556.74,75.39
+2024-01-10,Subscription,Visa,Netflix,9467.12,95.34
+2024-01-05,Entertainment,Visa,Day off,3422.07,102.9
+2024-01-26,Utilities,Paytm,Water bill,1756.9,30.82
+2024-01-23,Groceries,Paytm,Monthly groceries,2223.32,12.44
+2024-01-15,Entertainment,Cash,Tour,8575.98,679.02
+2024-01-14,Groceries,Check,Monthly groceries,2303.47,197.87
+2024-01-26,Groceries,Visa,Monthly groceries,6100.31,426.76
+2024-01-03,Subscription,Debit_card,Amazon Prime,2319.3,148.89
+2024-01-28,Rent,Credit_card,Monthly house rent,6628.09,261.15
+2024-01-18,Rent,Debit_card,Monthly house rent,9832.65,308.67
+2024-01-09,Groceries,Cash,Monthly groceries,4695.21,395.77
+2024-01-02,Utilities,Paypal,Internet bill,1367.99,114.99
+2024-01-27,Utilities,Credit_card,Water bill,2143.16,118.07
+2024-01-20,Groceries,Gpay,Monthly groceries,3846.92,336.08
+2024-01-29,Insurance,Credit_card,Car,8440.3,548.31
+2024-01-09,Rent,Debit_card,Monthly house rent,8442.0,341.43
+2024-01-07,Insurance,Cash,Car,9582.39,19.84
+2024-01-03,Travel,Paytm,Transportation,1190.66,18.02
+2024-01-10,Utilities,Gpay,Water bill,5835.97,17.43
+2024-01-18,Travel,Paytm,Accommodation,8879.13,439.61
+2024-01-22,Utilities,Paypal,Internet bill,8177.13,427.27
+2024-01-16,Subscription,Cash,Netflix,5656.36,494.88
+2024-01-16,Rent,Credit_card,Monthly house rent,8848.49,161.92
+2024-01-19,Subscription,Cash,Amazon Prime,3951.2,340.62
+2024-01-17,Groceries,Paypal,Monthly groceries,4484.64,345.34
+2024-01-25,Entertainment,Visa,Went to movies,1391.57,58.85
+2024-01-22,Subscription,Debit_card,Amazon Prime,1283.8,27.85
+2024-01-12,Insurance,Visa,Car,2256.38,89.89
+2024-01-01,Travel,Check,Flights,3877.17,0.23
+2024-01-29,Groceries,Gpay,Monthly groceries,3754.61,225.47
+2024-01-11,Utilities,Gpay,Internet bill,6782.11,300.92
+2024-01-06,Entertainment,Gpay,Day off,7868.13,361.14
+2024-01-05,Groceries,Check,Monthly groceries,8246.53,334.89
+2024-01-05,Rent,Check,Monthly house rent,2824.2,4.95
+2024-01-09,Utilities,Cash,Internet bill,4999.01,111.73
+2024-01-10,Rent,Gpay,Monthly house rent,6197.61,91.79
+2024-01-08,Insurance,Bank_transfer,Car,8361.34,223.25
+2024-01-23,Subscription,Check,Amazon Prime,7592.51,354.93
+2024-01-11,Subscription,Bank_transfer,Netflix,5157.44,217.7
+2024-01-02,Subscription,Paypal,Amazon Prime,2520.35,31.23
+2024-01-27,Insurance,Gpay,Car,8238.99,350.45
+2024-01-10,Insurance,Cash,Life,1490.77,25.27
+2024-01-20,Groceries,Check,Monthly groceries,6267.6,30.25
+2024-01-27,Rent,Paypal,Monthly house rent,3982.68,276.53
+2024-01-17,Groceries,Check,Monthly groceries,5878.09,187.31
+2024-01-10,Subscription,Debit_card,Netflix,2574.22,187.41
+2024-01-24,Insurance,Visa,Car,8178.63,305.73
+2024-01-02,Groceries,Check,Monthly groceries,9042.19,410.41
+2024-01-15,Utilities,Gpay,Electricity bill,7446.34,516.49
+2024-01-20,Utilities,Cash,Electricity bill,5291.78,174.8
+2024-01-24,Entertainment,Credit_card,Tour,4197.85,240.71
+2024-01-07,Entertainment,Bank_transfer,Tour,1374.64,10.7
+2024-01-26,Travel,Credit_card,Accommodation,1766.67,72.43
+2024-01-25,Entertainment,Debit_card,Tour,1532.97,138.37
+2024-01-08,Subscription,Credit_card,Netflix,8705.0,3.48
+2024-01-21,Rent,Paypal,Monthly house rent,7030.26,330.62
+2024-01-30,Entertainment,Check,Went to movies,9144.97,134.13
+2024-01-19,Entertainment,Bank_transfer,Went to movies,3777.75,132.5
+2024-01-21,Insurance,Paytm,Car,7768.29,470.34
+2024-01-23,Groceries,Credit_card,Monthly groceries,7386.2,497.19
+2024-01-04,Entertainment,Paytm,Day off,4552.45,403.05
+2024-01-14,Groceries,Cash,Monthly groceries,3147.77,144.07
+2024-01-28,Travel,Cash,Flights,3984.75,198.19
+2024-01-05,Groceries,Bank_transfer,Monthly groceries,5730.55,531.48
+2024-01-09,Utilities,Debit_card,Internet bill,9213.52,804.35
+2024-01-12,Entertainment,Visa,Day off,9598.51,588.82
+2024-01-12,Insurance,Paypal,Car,8751.41,823.73
+2024-01-18,Entertainment,Cash,Tour,4825.95,221.22
+2024-01-19,Utilities,Paytm,Electricity bill,4451.82,140.3
+2024-01-17,Insurance,Paypal,Life,5629.5,218.75
+2024-01-04,Insurance,Check,Life,3543.84,14.17
+2024-01-10,Groceries,Check,Monthly groceries,6823.93,473.77
+2024-01-18,Groceries,Paypal,Monthly groceries,3625.0,115.79
+2024-01-22,Insurance,Debit_card,Car,7245.88,420.27
+2024-01-30,Subscription,Debit_card,Amazon Prime,9787.37,665.46
+2024-01-05,Groceries,Paytm,Monthly groceries,1939.01,143.87
+2024-01-28,Insurance,Cash,Life,6254.86,575.2
+2024-01-20,Entertainment,Paypal,Tour,7245.21,274.58
+2024-01-13,Subscription,Gpay,Amazon Prime,1059.67,38.17
+2024-01-24,Groceries,Check,Monthly groceries,8956.81,449.68
+2024-01-10,Utilities,Visa,Electricity bill,5868.28,194.53
+2024-01-16,Rent,Paypal,Monthly house rent,1595.95,101.73
+2024-01-27,Travel,Credit_card,Accommodation,7431.08,251.94
+2024-01-25,Insurance,Visa,Life,6141.11,84.76
+2024-01-30,Rent,Debit_card,Monthly house rent,1688.11,20.82
+2024-01-01,Rent,Debit_card,Monthly house rent,5167.26,515.15
+2024-01-26,Insurance,Debit_card,Car,4681.29,194.94
+2024-01-12,Rent,Cash,Monthly house rent,5500.86,43.49
+2024-01-08,Insurance,Cash,Car,6189.71,293.64
+2024-01-25,Entertainment,Gpay,Day off,5455.98,109.01
+2024-01-20,Utilities,Visa,Water bill,8385.07,381.56
+2024-01-10,Rent,Paypal,Monthly house rent,3139.24,291.92
+2024-01-30,Subscription,Paypal,Netflix,2181.68,102.1
+2024-01-06,Groceries,Cash,Monthly groceries,1947.38,122.03
+2024-01-17,Utilities,Gpay,Electricity bill,5970.21,124.8
+2024-01-02,Groceries,Cash,Monthly groceries,6472.23,494.51
+2024-01-26,Travel,Debit_card,Transportation,9925.66,525.69
+2024-01-06,Rent,Debit_card,Monthly house rent,1961.87,68.41
+2024-01-10,Rent,Check,Monthly house rent,4854.13,201.24
+2024-01-30,Insurance,Gpay,Life,9895.86,538.54
+2024-01-23,Travel,Check,Accommodation,7124.84,306.33
+2024-01-20,Utilities,Check,Internet bill,9248.72,624.28
+2024-01-23,Travel,Cash,Flights,1606.36,26.52
+2024-01-17,Rent,Gpay,Monthly house rent,9320.14,130.44
+2024-01-29,Groceries,Bank_transfer,Monthly groceries,1811.32,118.2
+2024-01-29,Subscription,Paytm,Netflix,1186.6,112.78
+2024-01-12,Entertainment,Visa,Went to movies,3796.67,221.0
+2024-01-08,Rent,Bank_transfer,Monthly house rent,2465.67,7.7
+2024-01-14,Travel,Paytm,Flights,2093.72,12.73
+2024-01-03,Travel,Gpay,Accommodation,2337.67,111.69
+2024-01-23,Travel,Paypal,Flights,1784.62,134.6
+2024-01-20,Subscription,Credit_card,Netflix,5230.84,179.81
+2024-01-17,Travel,Gpay,Transportation,7393.61,398.09
+2024-01-01,Subscription,Check,Netflix,4072.71,384.26
+2024-01-08,Rent,Visa,Monthly house rent,3274.9,240.32
+2024-01-16,Insurance,Gpay,Car,7988.75,558.71
+2024-01-14,Groceries,Bank_transfer,Monthly groceries,5744.39,111.92
+2024-01-20,Travel,Paypal,Transportation,8779.23,469.9
+2024-01-10,Entertainment,Debit_card,Tour,8492.12,827.0
+2024-01-03,Rent,Gpay,Monthly house rent,7588.96,725.35
+2024-01-17,Entertainment,Paypal,Day off,7534.34,733.71
+2024-01-29,Utilities,Paytm,Water bill,4026.0,165.05
+2024-01-09,Utilities,Cash,Internet bill,9830.26,315.12
+2024-01-04,Subscription,Paytm,Amazon Prime,7357.38,184.2
+2024-01-09,Entertainment,Credit_card,Went to movies,2031.28,174.65
+2024-01-28,Subscription,Visa,Amazon Prime,7362.93,283.68
+2024-02-15,Travel,Visa,Accommodation,3153.94,181.72
+2024-02-06,Subscription,Paytm,Netflix,9584.74,104.51
+2024-02-16,Entertainment,Bank_transfer,Tour,6103.79,497.28
+2024-02-19,Groceries,Debit_card,Monthly groceries,1610.43,131.04
+2024-02-05,Utilities,Paypal,Water bill,6122.44,247.46
+2024-02-22,Subscription,Credit_card,Amazon Prime,7039.92,26.21
+2024-02-21,Rent,Paytm,Monthly house rent,4103.96,57.9
+2024-02-17,Subscription,Check,Netflix,1350.75,130.7
+2024-02-02,Insurance,Gpay,Life,2334.8,209.66
+2024-02-17,Utilities,Paypal,Internet bill,6337.97,438.05
+2024-02-01,Rent,Cash,Monthly house rent,4581.47,313.51
+2024-02-23,Subscription,Credit_card,Netflix,9781.78,964.22
+2024-02-04,Groceries,Paytm,Monthly groceries,4859.84,22.28
+2024-02-03,Subscription,Cash,Amazon Prime,8986.8,357.59
+2024-02-06,Entertainment,Paytm,Went to movies,2521.85,51.4
+2024-02-14,Subscription,Gpay,Amazon Prime,1117.56,91.01
+2024-02-21,Travel,Check,Transportation,9631.61,912.89
+2024-02-16,Entertainment,Debit_card,Tour,8103.16,323.42
+2024-02-06,Groceries,Debit_card,Monthly groceries,9863.09,119.4
+2024-02-21,Groceries,Gpay,Monthly groceries,2976.12,259.76
+2024-02-05,Utilities,Credit_card,Water bill,2894.04,216.34
+2024-02-25,Subscription,Paypal,Netflix,3127.28,297.48
+2024-02-18,Groceries,Cash,Monthly groceries,4052.3,327.63
+2024-02-12,Entertainment,Debit_card,Tour,4050.75,396.74
+2024-02-16,Utilities,Check,Electricity bill,2548.75,148.97
+2024-02-24,Subscription,Check,Amazon Prime,3048.63,70.77
+2024-02-01,Utilities,Visa,Internet bill,1262.2,60.4
+2024-02-14,Entertainment,Paytm,Day off,7624.53,110.67
+2024-02-16,Insurance,Paypal,Life,6083.49,268.81
+2024-02-27,Groceries,Check,Monthly groceries,2415.83,92.98
+2024-02-11,Subscription,Debit_card,Amazon Prime,9901.55,382.09
+2024-02-03,Insurance,Check,Car,5008.44,250.57
+2024-02-20,Insurance,Visa,Car,4354.93,5.84
+2024-02-12,Subscription,Credit_card,Amazon Prime,9866.66,508.74
+2024-02-18,Rent,Bank_transfer,Monthly house rent,6278.63,349.21
+2024-02-19,Utilities,Gpay,Water bill,2322.48,218.41
+2024-02-19,Travel,Paytm,Transportation,4546.63,131.81
+2024-02-20,Insurance,Gpay,Life,7551.2,552.95
+2024-02-13,Entertainment,Visa,Day off,3600.89,187.83
+2024-02-23,Entertainment,Cash,Went to movies,8887.29,530.29
+2024-02-12,Groceries,Debit_card,Monthly groceries,6196.3,605.68
+2024-02-13,Subscription,Debit_card,Amazon Prime,4592.48,363.94
+2024-02-21,Rent,Visa,Monthly house rent,7788.43,293.91
+2024-02-01,Insurance,Bank_transfer,Life,1577.9,117.25
+2024-02-08,Travel,Check,Transportation,4524.59,74.81
+2024-02-17,Insurance,Bank_transfer,Car,5627.22,362.65
+2024-02-10,Insurance,Paytm,Car,1354.69,19.08
+2024-02-02,Utilities,Paytm,Water bill,9211.47,614.99
+2024-02-02,Insurance,Bank_transfer,Life,7074.82,359.93
+2024-02-13,Groceries,Credit_card,Monthly groceries,1926.53,21.68
+2024-02-06,Subscription,Check,Amazon Prime,7840.38,541.18
+2024-02-11,Rent,Bank_transfer,Monthly house rent,6000.06,485.8
+2024-02-05,Entertainment,Paytm,Tour,3207.89,226.58
+2024-02-25,Entertainment,Gpay,Went to movies,4161.5,67.26
+2024-02-23,Subscription,Check,Netflix,1769.04,167.28
+2024-02-03,Subscription,Debit_card,Netflix,4272.32,338.68
+2024-02-25,Rent,Debit_card,Monthly house rent,7998.06,225.67
+2024-02-22,Utilities,Paypal,Internet bill,1649.82,19.09
+2024-02-07,Rent,Gpay,Monthly house rent,4300.53,116.45
+2024-02-12,Groceries,Paypal,Monthly groceries,3017.0,288.07
+2024-02-04,Insurance,Bank_transfer,Life,8062.16,380.83
+2024-02-15,Entertainment,Debit_card,Went to movies,3897.26,112.1
+2024-02-27,Travel,Debit_card,Flights,4503.96,123.0
+2024-02-08,Utilities,Gpay,Water bill,5912.1,304.92
+2024-02-22,Subscription,Credit_card,Netflix,7201.91,207.81
+2024-02-04,Subscription,Credit_card,Amazon Prime,1739.14,74.48
+2024-02-05,Insurance,Gpay,Car,8309.87,315.38
+2024-02-08,Insurance,Bank_transfer,Life,4787.85,92.14
+2024-02-06,Travel,Debit_card,Flights,4809.7,48.47
+2024-02-25,Travel,Paypal,Transportation,4904.08,122.96
+2024-02-18,Utilities,Check,Internet bill,7370.28,574.62
+2024-02-18,Rent,Paypal,Monthly house rent,3181.94,125.74
+2024-02-07,Rent,Debit_card,Monthly house rent,7232.28,47.72
+2024-02-22,Subscription,Cash,Netflix,5399.48,291.51
+2024-02-02,Insurance,Check,Life,4234.2,76.21
+2024-02-06,Groceries,Visa,Monthly groceries,4981.59,257.06
+2024-02-17,Utilities,Paytm,Water bill,9353.49,511.24
+2024-02-27,Subscription,Bank_transfer,Netflix,9834.95,786.33
+2024-02-13,Utilities,Debit_card,Electricity bill,5018.14,394.12
+2024-02-14,Entertainment,Paytm,Tour,4037.44,131.71
+2024-02-12,Entertainment,Debit_card,Day off,3055.03,20.85
+2024-02-22,Subscription,Visa,Netflix,6109.39,367.07
+2024-02-07,Travel,Visa,Flights,7378.65,245.34
+2024-02-27,Travel,Debit_card,Accommodation,4909.08,377.03
+2024-02-03,Subscription,Debit_card,Amazon Prime,9679.32,405.44
+2024-02-24,Rent,Paytm,Monthly house rent,8675.32,382.49
+2024-02-22,Travel,Bank_transfer,Transportation,5560.84,382.49
+2024-02-02,Groceries,Paypal,Monthly groceries,2621.08,160.71
+2024-02-22,Subscription,Credit_card,Netflix,8963.96,280.17
+2024-02-27,Rent,Bank_transfer,Monthly house rent,7201.39,481.07
+2024-02-18,Rent,Visa,Monthly house rent,8274.4,384.88
+2024-02-03,Insurance,Credit_card,Car,7569.45,498.67
+2024-02-24,Entertainment,Credit_card,Day off,4730.36,279.24
+2024-02-03,Subscription,Cash,Amazon Prime,9214.09,443.01
+2024-02-15,Utilities,Check,Electricity bill,7924.73,172.63
+2024-02-25,Utilities,Gpay,Water bill,1312.13,108.33
+2024-02-08,Utilities,Bank_transfer,Water bill,9469.99,403.43
+2024-02-23,Travel,Bank_transfer,Accommodation,6958.63,460.84
+2024-02-06,Rent,Paytm,Monthly house rent,6363.82,46.88
+2024-02-19,Travel,Gpay,Accommodation,7448.63,280.63
+2024-02-01,Insurance,Bank_transfer,Car,3944.84,338.33
+2024-02-27,Groceries,Gpay,Monthly groceries,2441.71,60.69
+2024-02-18,Groceries,Visa,Monthly groceries,1798.56,99.47
+2024-02-06,Groceries,Credit_card,Monthly groceries,1638.9,84.85
+2024-02-18,Entertainment,Bank_transfer,Went to movies,7549.02,272.4
+2024-02-18,Utilities,Paytm,Water bill,9551.27,484.06
+2024-02-27,Rent,Check,Monthly house rent,9667.19,370.94
+2024-02-07,Groceries,Gpay,Monthly groceries,2196.43,174.0
+2024-02-24,Travel,Gpay,Flights,3489.35,163.62
+2024-02-17,Groceries,Cash,Monthly groceries,8585.31,124.72
+2024-02-01,Groceries,Check,Monthly groceries,4744.36,408.17
+2024-02-10,Rent,Paytm,Monthly house rent,1255.95,65.31
+2024-02-03,Rent,Paytm,Monthly house rent,3554.29,163.16
+2024-02-13,Groceries,Check,Monthly groceries,1937.11,74.77
+2024-02-01,Subscription,Gpay,Amazon Prime,6193.43,344.37
+2024-02-01,Groceries,Paytm,Monthly groceries,2461.75,91.05
+2024-02-14,Groceries,Debit_card,Monthly groceries,4134.39,383.64
+2024-02-21,Insurance,Visa,Life,1172.99,94.04
+2024-02-22,Insurance,Visa,Car,3852.31,82.64
+2024-02-11,Travel,Debit_card,Flights,7720.21,66.98
+2024-02-20,Groceries,Check,Monthly groceries,4212.91,137.15
+2024-02-15,Insurance,Check,Life,8374.0,663.46
+2024-02-15,Utilities,Cash,Electricity bill,6168.26,195.31
+2024-02-06,Groceries,Cash,Monthly groceries,6494.09,8.22
+2024-02-09,Groceries,Credit_card,Monthly groceries,1352.66,28.17
+2024-02-15,Rent,Paypal,Monthly house rent,9859.84,910.24
+2024-02-01,Utilities,Visa,Electricity bill,9422.15,898.79
+2024-02-14,Rent,Check,Monthly house rent,2849.74,10.48
+2024-02-15,Entertainment,Gpay,Tour,1646.29,108.62
+2024-02-20,Subscription,Visa,Amazon Prime,8742.16,183.49
+2024-02-26,Rent,Visa,Monthly house rent,1391.71,64.05
+2024-02-15,Rent,Debit_card,Monthly house rent,5048.25,198.73
+2024-02-13,Entertainment,Visa,Went to movies,7493.46,36.39
+2024-02-17,Insurance,Credit_card,Life,6507.1,133.25
+2024-02-12,Subscription,Visa,Amazon Prime,6604.96,72.66
+2024-02-12,Groceries,Check,Monthly groceries,5326.13,174.83
+2024-02-01,Rent,Credit_card,Monthly house rent,5831.46,472.04
+2024-02-13,Insurance,Paytm,Car,3556.34,54.63
+2024-02-24,Insurance,Paytm,Life,1015.86,67.03
+2024-02-16,Entertainment,Credit_card,Went to movies,6607.33,90.87
+2024-02-14,Utilities,Bank_transfer,Water bill,7997.98,497.68
+2024-02-12,Insurance,Paypal,Life,7473.78,654.7
+2024-02-16,Utilities,Check,Water bill,4217.69,98.27
+2024-02-24,Entertainment,Check,Day off,2222.34,208.26
+2024-02-08,Insurance,Paypal,Car,1794.61,129.41
+2024-02-17,Groceries,Credit_card,Monthly groceries,5186.73,103.06
+2024-02-25,Travel,Check,Flights,6924.69,562.08
+2024-02-20,Subscription,Cash,Netflix,4225.15,291.45
+2024-02-08,Groceries,Check,Monthly groceries,7981.96,615.53
+2024-02-18,Groceries,Cash,Monthly groceries,7768.66,360.83
+2024-03-03,Subscription,Paytm,Netflix,6907.03,292.1
+2024-03-29,Insurance,Bank_transfer,Car,1444.3,59.91
+2024-03-22,Insurance,Check,Car,1030.2,31.85
+2024-03-18,Entertainment,Check,Went to movies,5465.29,65.52
+2024-03-29,Rent,Debit_card,Monthly house rent,7658.56,457.22
+2024-03-22,Insurance,Paypal,Car,4865.84,111.74
+2024-03-06,Travel,Check,Transportation,2714.49,21.99
+2024-03-08,Travel,Paypal,Flights,2533.94,143.69
+2024-03-01,Groceries,Credit_card,Monthly groceries,7273.81,95.63
+2024-03-14,Subscription,Credit_card,Netflix,7183.6,37.22
+2024-03-17,Travel,Visa,Transportation,5437.44,410.7
+2024-03-22,Subscription,Cash,Netflix,1627.86,145.4
+2024-03-08,Subscription,Visa,Netflix,6099.16,248.21
+2024-03-18,Rent,Gpay,Monthly house rent,5741.22,245.75
+2024-03-05,Subscription,Paypal,Amazon Prime,5353.74,169.04
+2024-03-26,Insurance,Check,Car,2312.44,51.48
+2024-03-30,Utilities,Paypal,Internet bill,6259.07,280.32
+2024-03-04,Utilities,Check,Electricity bill,8919.71,125.0
+2024-03-22,Subscription,Debit_card,Amazon Prime,4069.16,242.19
+2024-03-14,Utilities,Paytm,Internet bill,6591.8,399.41
+2024-03-20,Insurance,Paypal,Car,9749.21,364.71
+2024-03-24,Rent,Paytm,Monthly house rent,7666.7,476.68
+2024-03-09,Utilities,Debit_card,Electricity bill,5674.2,239.9
+2024-03-12,Entertainment,Cash,Went to movies,5726.35,304.21
+2024-03-14,Utilities,Paytm,Electricity bill,5910.35,149.06
+2024-03-23,Rent,Debit_card,Monthly house rent,2203.84,219.32
+2024-03-28,Travel,Debit_card,Accommodation,5366.96,3.51
+2024-03-02,Rent,Gpay,Monthly house rent,8471.32,258.31
+2024-03-17,Rent,Bank_transfer,Monthly house rent,7074.18,316.8
+2024-03-03,Insurance,Cash,Life,1931.66,75.64
+2024-03-06,Subscription,Gpay,Netflix,8083.58,445.9
+2024-03-02,Travel,Paypal,Accommodation,2837.44,263.84
+2024-03-15,Subscription,Paypal,Amazon Prime,3738.68,287.63
+2024-03-19,Rent,Paytm,Monthly house rent,5555.46,410.4
+2024-03-05,Entertainment,Cash,Day off,4038.93,61.03
+2024-03-06,Rent,Gpay,Monthly house rent,5291.17,43.54
+2024-03-16,Travel,Visa,Transportation,7020.24,42.29
+2024-03-15,Insurance,Debit_card,Car,8055.06,676.28
+2024-03-18,Rent,Visa,Monthly house rent,7329.12,143.66
+2024-03-06,Subscription,Check,Netflix,5634.96,234.48
+2024-03-02,Travel,Credit_card,Transportation,1785.63,34.09
+2024-03-11,Utilities,Visa,Electricity bill,8667.48,355.16
+2024-03-14,Groceries,Check,Monthly groceries,5457.04,39.3
+2024-03-03,Groceries,Cash,Monthly groceries,2242.25,203.9
+2024-03-04,Entertainment,Bank_transfer,Went to movies,4274.13,226.65
+2024-03-13,Groceries,Visa,Monthly groceries,1299.64,26.72
+2024-03-23,Travel,Visa,Transportation,9164.23,881.32
+2024-03-18,Insurance,Gpay,Car,2096.1,75.79
+2024-03-17,Insurance,Check,Life,9209.44,388.92
+2024-03-13,Utilities,Paytm,Electricity bill,8358.54,396.7
+2024-03-22,Groceries,Bank_transfer,Monthly groceries,6428.16,8.09
+2024-03-21,Groceries,Paypal,Monthly groceries,3023.41,186.75
+2024-03-06,Groceries,Gpay,Monthly groceries,7155.51,390.41
+2024-03-21,Insurance,Credit_card,Life,6191.7,136.99
+2024-03-21,Entertainment,Debit_card,Day off,1315.54,50.49
+2024-03-20,Insurance,Bank_transfer,Car,6935.93,550.79
+2024-03-21,Rent,Bank_transfer,Monthly house rent,9464.64,217.58
+2024-03-21,Utilities,Visa,Internet bill,1803.32,151.16
+2024-03-27,Entertainment,Debit_card,Went to movies,9285.32,519.51
+2024-03-03,Entertainment,Paypal,Day off,6817.33,478.85
+2024-03-08,Groceries,Gpay,Monthly groceries,5601.04,412.87
+2024-03-15,Travel,Credit_card,Accommodation,3191.33,31.7
+2024-03-15,Rent,Debit_card,Monthly house rent,9203.59,424.3
+2024-03-17,Insurance,Paytm,Life,7051.19,577.51
+2024-03-03,Insurance,Credit_card,Life,5603.44,370.5
+2024-03-10,Groceries,Gpay,Monthly groceries,8249.97,768.11
+2024-03-15,Insurance,Bank_transfer,Life,2623.76,248.13
+2024-03-12,Groceries,Gpay,Monthly groceries,2144.14,139.83
+2024-03-11,Groceries,Gpay,Monthly groceries,6776.12,178.69
+2024-03-24,Groceries,Credit_card,Monthly groceries,6094.94,460.76
+2024-03-13,Groceries,Gpay,Monthly groceries,2132.25,47.68
+2024-03-20,Entertainment,Bank_transfer,Day off,9207.96,778.42
+2024-03-13,Travel,Cash,Transportation,3416.24,17.41
+2024-03-25,Insurance,Check,Car,1284.6,24.24
+2024-03-16,Insurance,Debit_card,Car,9135.82,28.57
+2024-03-06,Subscription,Visa,Amazon Prime,6176.95,343.2
+2024-03-29,Utilities,Check,Water bill,3351.17,133.37
+2024-03-25,Travel,Cash,Flights,7234.12,694.81
+2024-03-28,Subscription,Gpay,Netflix,7551.32,307.12
+2024-03-15,Entertainment,Cash,Tour,6148.8,14.24
+2024-03-13,Utilities,Paypal,Electricity bill,2839.45,281.3
+2024-03-06,Rent,Paypal,Monthly house rent,2840.28,109.23
+2024-03-12,Rent,Cash,Monthly house rent,9828.18,232.47
+2024-03-20,Subscription,Paytm,Amazon Prime,5809.75,417.66
+2024-03-14,Subscription,Bank_transfer,Amazon Prime,1860.88,54.44
+2024-03-05,Insurance,Bank_transfer,Car,3929.77,331.23
+2024-03-23,Groceries,Cash,Monthly groceries,7291.5,593.13
+2024-03-27,Groceries,Bank_transfer,Monthly groceries,8385.02,116.74
+2024-03-02,Groceries,Paypal,Monthly groceries,8867.95,687.45
+2024-03-14,Entertainment,Gpay,Day off,6904.88,444.91
+2024-03-15,Entertainment,Check,Went to movies,4086.31,153.91
+2024-03-25,Subscription,Cash,Amazon Prime,9285.94,348.6
+2024-03-15,Travel,Bank_transfer,Transportation,7943.85,763.82
+2024-03-11,Travel,Visa,Flights,5354.58,341.33
+2024-03-20,Subscription,Paytm,Amazon Prime,8881.72,57.35
+2024-03-06,Groceries,Debit_card,Monthly groceries,9571.0,875.3
+2024-03-14,Insurance,Paypal,Car,2875.49,41.74
+2024-03-29,Groceries,Gpay,Monthly groceries,3064.05,238.73
+2024-03-06,Entertainment,Paytm,Tour,4087.2,1.95
+2024-03-05,Insurance,Credit_card,Life,6043.52,356.9
+2024-03-24,Rent,Visa,Monthly house rent,2878.1,198.3
+2024-03-19,Entertainment,Cash,Went to movies,7141.54,614.74
+2024-03-24,Utilities,Paytm,Internet bill,1688.12,151.08
+2024-03-11,Travel,Credit_card,Flights,8180.69,790.67
+2024-03-24,Utilities,Gpay,Electricity bill,5043.04,10.95
+2024-03-08,Travel,Check,Transportation,1396.2,39.51
+2024-03-30,Subscription,Credit_card,Amazon Prime,4574.66,252.47
+2024-03-03,Utilities,Check,Electricity bill,6498.65,91.32
+2024-03-30,Entertainment,Gpay,Went to movies,7502.96,282.15
+2024-03-07,Travel,Gpay,Transportation,1184.16,33.09
+2024-03-04,Insurance,Visa,Life,6302.45,193.28
+2024-03-20,Travel,Bank_transfer,Flights,4004.94,265.05
+2024-03-16,Entertainment,Check,Went to movies,6949.54,68.16
+2024-03-29,Utilities,Credit_card,Water bill,8337.99,664.73
+2024-03-21,Subscription,Check,Amazon Prime,1811.3,15.43
+2024-03-23,Insurance,Debit_card,Car,6060.96,44.09
+2024-03-17,Utilities,Paypal,Electricity bill,3505.39,224.04
+2024-03-23,Rent,Cash,Monthly house rent,5111.01,216.64
+2024-03-25,Subscription,Credit_card,Netflix,5879.53,97.49
+2024-03-29,Entertainment,Paypal,Went to movies,2038.35,170.61
+2024-03-19,Rent,Paytm,Monthly house rent,7398.79,725.53
+2024-03-28,Subscription,Credit_card,Amazon Prime,9870.91,88.38
+2024-03-03,Travel,Paypal,Accommodation,9312.35,891.41
+2024-03-16,Rent,Visa,Monthly house rent,5309.68,68.52
+2024-03-04,Groceries,Cash,Monthly groceries,6449.81,96.66
+2024-03-10,Utilities,Check,Electricity bill,4888.16,262.58
+2024-03-26,Insurance,Credit_card,Car,6015.01,254.11
+2024-03-05,Travel,Bank_transfer,Transportation,2512.31,80.09
+2024-03-22,Insurance,Visa,Car,8427.92,608.96
+2024-03-16,Groceries,Paytm,Monthly groceries,3638.42,37.45
+2024-03-13,Groceries,Paypal,Monthly groceries,4184.29,352.63
+2024-03-14,Rent,Gpay,Monthly house rent,6390.74,438.93
+2024-03-10,Rent,Bank_transfer,Monthly house rent,9418.85,96.07
+2024-03-28,Entertainment,Gpay,Day off,2716.01,233.24
+2024-03-22,Subscription,Visa,Netflix,5238.76,291.99
+2024-03-07,Rent,Credit_card,Monthly house rent,5273.78,476.43
+2024-03-07,Insurance,Bank_transfer,Life,5014.45,42.77
+2024-03-30,Groceries,Paypal,Monthly groceries,8601.7,584.39
+2024-03-15,Entertainment,Visa,Tour,6382.89,357.69
+2024-03-26,Groceries,Credit_card,Monthly groceries,9687.55,872.85
+2024-03-04,Travel,Check,Accommodation,5083.77,448.75
+2024-03-11,Entertainment,Cash,Day off,2245.51,109.19
+2024-03-03,Utilities,Paypal,Internet bill,3907.3,243.45
+2024-03-08,Insurance,Debit_card,Life,6027.62,71.68
+2024-03-07,Subscription,Gpay,Amazon Prime,4458.15,387.88
+2024-03-22,Rent,Check,Monthly house rent,4390.82,228.78
+2024-03-11,Travel,Cash,Accommodation,7630.79,338.35
+2024-03-26,Insurance,Gpay,Car,2897.28,32.97
+2024-03-07,Subscription,Visa,Amazon Prime,9263.44,552.0
+2024-03-12,Travel,Check,Accommodation,4672.07,200.2
+2024-04-16,Insurance,Cash,Life,4799.28,26.58
+2024-04-09,Travel,Paytm,Flights,6766.19,262.33
+2024-04-14,Entertainment,Paypal,Went to movies,7569.08,692.37
+2024-04-02,Entertainment,Paytm,Day off,8472.57,680.22
+2024-04-10,Insurance,Paypal,Car,8423.44,420.17
+2024-04-28,Insurance,Bank_transfer,Life,6088.57,405.4
+2024-04-26,Rent,Bank_transfer,Monthly house rent,7424.62,334.59
+2024-04-01,Groceries,Debit_card,Monthly groceries,4374.35,148.17
+2024-04-09,Subscription,Paypal,Amazon Prime,3137.39,209.95
+2024-04-09,Rent,Paytm,Monthly house rent,6733.79,164.92
+2024-04-18,Travel,Paypal,Transportation,9089.06,532.7
+2024-04-01,Travel,Paytm,Accommodation,7103.57,288.45
+2024-04-28,Rent,Paytm,Monthly house rent,1955.53,169.76
+2024-04-08,Entertainment,Paypal,Day off,4821.91,68.74
+2024-04-29,Subscription,Bank_transfer,Netflix,3936.54,229.91
+2024-04-03,Entertainment,Bank_transfer,Went to movies,5724.61,407.97
+2024-04-02,Travel,Debit_card,Transportation,8129.05,149.79
+2024-04-03,Insurance,Check,Car,3787.35,198.77
+2024-04-15,Groceries,Paytm,Monthly groceries,8519.27,266.56
+2024-04-08,Groceries,Debit_card,Monthly groceries,4888.53,204.6
+2024-04-07,Subscription,Paypal,Netflix,1249.97,29.84
+2024-04-24,Groceries,Check,Monthly groceries,1916.53,38.08
+2024-04-25,Entertainment,Gpay,Day off,2468.84,244.24
+2024-04-27,Utilities,Visa,Water bill,5537.39,515.85
+2024-04-13,Groceries,Debit_card,Monthly groceries,7471.29,311.24
+2024-04-17,Travel,Paytm,Transportation,2486.23,63.79
+2024-04-03,Utilities,Bank_transfer,Internet bill,1882.39,91.29
+2024-04-18,Entertainment,Cash,Went to movies,7730.69,90.25
+2024-04-02,Travel,Paypal,Transportation,8140.03,657.27
+2024-04-23,Groceries,Paytm,Monthly groceries,8824.53,35.66
+2024-04-19,Travel,Paytm,Flights,6635.16,431.71
+2024-04-09,Insurance,Gpay,Car,9010.59,557.97
+2024-04-12,Subscription,Check,Amazon Prime,4567.2,406.5
+2024-04-02,Entertainment,Credit_card,Went to movies,9671.42,484.51
+2024-04-09,Subscription,Check,Netflix,5519.32,227.86
+2024-04-15,Subscription,Paytm,Amazon Prime,8620.69,305.31
+2024-04-03,Travel,Gpay,Flights,6692.59,616.3
+2024-04-11,Travel,Check,Transportation,6613.39,639.91
+2024-04-15,Rent,Debit_card,Monthly house rent,1533.63,76.89
+2024-04-11,Rent,Bank_transfer,Monthly house rent,6022.42,134.38
+2024-04-24,Groceries,Debit_card,Monthly groceries,6444.68,593.72
+2024-04-23,Subscription,Credit_card,Netflix,9953.4,387.21
+2024-04-04,Entertainment,Check,Went to movies,1867.22,139.7
+2024-04-13,Subscription,Visa,Netflix,6880.77,320.98
+2024-04-16,Insurance,Gpay,Car,9651.72,557.51
+2024-04-17,Utilities,Debit_card,Electricity bill,9580.83,397.48
+2024-04-28,Utilities,Gpay,Electricity bill,6126.94,52.71
+2024-04-15,Rent,Debit_card,Monthly house rent,6583.17,418.1
+2024-04-24,Subscription,Cash,Netflix,8370.88,471.34
+2024-04-12,Subscription,Debit_card,Amazon Prime,3375.66,300.32
+2024-04-07,Utilities,Visa,Electricity bill,5616.54,174.88
+2024-04-10,Insurance,Credit_card,Car,3152.14,15.27
+2024-04-10,Travel,Cash,Flights,7501.21,162.67
+2024-04-23,Rent,Credit_card,Monthly house rent,9086.35,847.66
+2024-04-18,Entertainment,Check,Went to movies,1988.63,106.52
+2024-04-23,Insurance,Credit_card,Car,3401.71,225.54
+2024-04-12,Insurance,Paypal,Life,6843.54,141.01
+2024-04-15,Rent,Cash,Monthly house rent,8865.41,344.65
+2024-04-23,Utilities,Credit_card,Water bill,3729.28,355.09
+2024-04-23,Entertainment,Visa,Tour,2243.43,156.6
+2024-04-15,Rent,Bank_transfer,Monthly house rent,3842.04,151.29
+2024-04-17,Utilities,Debit_card,Internet bill,3791.0,155.17
+2024-04-05,Subscription,Paytm,Amazon Prime,1947.38,7.34
+2024-04-25,Entertainment,Paytm,Day off,5770.52,335.31
+2024-04-10,Groceries,Check,Monthly groceries,3887.19,35.03
+2024-04-01,Utilities,Credit_card,Water bill,2171.76,93.77
+2024-04-26,Travel,Cash,Transportation,1127.54,16.61
+2024-04-12,Groceries,Check,Monthly groceries,2569.64,82.92
+2024-04-07,Rent,Visa,Monthly house rent,8653.59,588.53
+2024-04-26,Insurance,Visa,Car,9833.74,17.63
+2024-04-16,Rent,Cash,Monthly house rent,5996.02,585.35
+2024-04-14,Entertainment,Gpay,Tour,7404.26,621.39
+2024-04-26,Rent,Paypal,Monthly house rent,2069.63,175.72
+2024-04-21,Travel,Cash,Flights,9418.19,561.37
+2024-04-28,Subscription,Check,Amazon Prime,4629.34,391.23
+2024-04-25,Subscription,Visa,Netflix,3099.1,193.45
+2024-04-29,Subscription,Debit_card,Netflix,9815.84,566.61
+2024-04-01,Subscription,Cash,Netflix,9756.3,544.74
+2024-04-20,Subscription,Paytm,Amazon Prime,9694.49,833.22
+2024-04-08,Insurance,Debit_card,Car,5745.82,264.52
+2024-04-16,Utilities,Paypal,Internet bill,4783.43,86.53
+2024-04-25,Insurance,Debit_card,Life,3511.37,183.55
+2024-04-04,Entertainment,Gpay,Tour,5510.96,274.76
+2024-04-25,Utilities,Paytm,Electricity bill,9526.87,937.14
+2024-04-13,Insurance,Visa,Life,6010.2,203.79
+2024-04-06,Insurance,Visa,Life,5595.85,362.7
+2024-04-12,Rent,Credit_card,Monthly house rent,8050.65,275.05
+2024-04-24,Subscription,Gpay,Netflix,6194.31,527.69
+2024-04-14,Insurance,Credit_card,Car,7201.16,460.09
+2024-04-25,Travel,Credit_card,Flights,2822.02,261.22
+2024-04-13,Entertainment,Cash,Day off,4207.91,364.59
+2024-04-03,Rent,Paypal,Monthly house rent,4070.35,245.64
+2024-04-06,Entertainment,Visa,Tour,9730.97,387.45
+2024-04-15,Utilities,Gpay,Electricity bill,6512.01,35.91
+2024-04-20,Insurance,Debit_card,Car,1584.41,98.58
+2024-04-05,Entertainment,Check,Tour,2397.89,103.94
+2024-04-08,Rent,Cash,Monthly house rent,1896.88,21.06
+2024-04-02,Insurance,Visa,Car,2748.64,97.76
+2024-04-15,Insurance,Paypal,Car,4545.47,419.13
+2024-04-12,Utilities,Bank_transfer,Internet bill,9601.94,405.23
+2024-04-17,Travel,Visa,Accommodation,6850.13,570.25
+2024-04-09,Subscription,Paypal,Amazon Prime,1030.1,40.24
+2024-04-02,Subscription,Credit_card,Netflix,1398.11,56.01
+2024-04-02,Utilities,Paytm,Water bill,1987.76,141.93
+2024-04-19,Groceries,Bank_transfer,Monthly groceries,4915.48,491.21
+2024-04-23,Travel,Debit_card,Flights,8476.29,674.84
+2024-04-19,Subscription,Gpay,Amazon Prime,2875.91,167.59
+2024-04-17,Groceries,Cash,Monthly groceries,3020.29,2.4
+2024-04-22,Entertainment,Gpay,Went to movies,8821.51,396.41
+2024-04-28,Insurance,Visa,Life,8926.22,519.63
+2024-04-13,Subscription,Paypal,Amazon Prime,2099.38,164.87
+2024-04-09,Entertainment,Debit_card,Tour,1501.85,101.46
+2024-04-23,Rent,Debit_card,Monthly house rent,6994.05,346.49
+2024-04-01,Entertainment,Bank_transfer,Tour,5992.57,117.88
+2024-04-08,Groceries,Credit_card,Monthly groceries,4231.5,169.02
+2024-04-04,Travel,Paytm,Transportation,3222.53,241.71
+2024-04-11,Entertainment,Credit_card,Day off,2776.04,49.92
+2024-04-13,Subscription,Credit_card,Netflix,6711.15,498.26
+2024-04-10,Rent,Debit_card,Monthly house rent,9373.81,168.04
+2024-04-29,Insurance,Gpay,Life,8928.57,31.35
+2024-04-12,Subscription,Debit_card,Netflix,6244.51,304.03
+2024-04-23,Subscription,Cash,Amazon Prime,1640.69,156.46
+2024-04-22,Insurance,Credit_card,Car,1324.69,16.95
+2024-04-16,Rent,Visa,Monthly house rent,2020.33,200.18
+2024-04-21,Entertainment,Debit_card,Day off,1582.95,80.9
+2024-04-11,Travel,Cash,Transportation,9450.31,869.65
+2024-04-25,Rent,Check,Monthly house rent,8183.73,369.01
+2024-04-17,Groceries,Check,Monthly groceries,7084.37,468.65
+2024-04-08,Travel,Paypal,Transportation,3897.35,47.92
+2024-04-14,Utilities,Visa,Internet bill,4267.74,78.38
+2024-04-23,Travel,Paytm,Flights,1997.09,169.51
+2024-04-07,Subscription,Paypal,Netflix,8750.35,712.13
+2024-04-29,Groceries,Credit_card,Monthly groceries,5440.57,338.78
+2024-04-17,Subscription,Paytm,Netflix,6138.8,134.88
+2024-04-13,Insurance,Cash,Car,2057.65,67.16
+2024-04-24,Entertainment,Gpay,Tour,2331.26,219.88
+2024-04-25,Travel,Debit_card,Accommodation,2782.85,214.4
+2024-04-12,Groceries,Paypal,Monthly groceries,8443.3,209.88
+2024-04-24,Groceries,Bank_transfer,Monthly groceries,6917.31,579.2
+2024-04-19,Rent,Visa,Monthly house rent,4001.64,43.7
+2024-04-17,Groceries,Visa,Monthly groceries,7394.46,292.81
+2024-04-19,Subscription,Cash,Netflix,3252.65,104.81
+2024-04-21,Travel,Visa,Flights,7126.59,506.98
+2024-04-02,Groceries,Check,Monthly groceries,9859.24,565.04
+2024-04-19,Rent,Gpay,Monthly house rent,9396.09,922.8
+2024-04-22,Travel,Bank_transfer,Flights,3622.56,44.75
+2024-04-03,Travel,Credit_card,Flights,6218.96,476.0
+2024-04-27,Entertainment,Cash,Day off,4338.46,3.94
+2024-04-19,Utilities,Bank_transfer,Water bill,6797.15,420.7
+2024-04-25,Rent,Paytm,Monthly house rent,9681.48,519.56
+2024-05-30,Insurance,Debit_card,Car,5267.63,30.65
+2024-05-16,Subscription,Paypal,Netflix,4835.31,74.2
+2024-05-07,Entertainment,Gpay,Day off,9790.03,665.58
+2024-05-10,Utilities,Paypal,Electricity bill,2301.35,223.87
+2024-05-23,Travel,Paypal,Accommodation,4489.23,6.1
+2024-05-21,Rent,Cash,Monthly house rent,1771.37,88.47
+2024-05-09,Utilities,Check,Electricity bill,8599.99,701.78
+2024-05-27,Subscription,Visa,Netflix,1811.29,76.23
+2024-05-06,Groceries,Debit_card,Monthly groceries,6091.36,330.99
+2024-05-20,Travel,Visa,Accommodation,2462.56,187.46
+2024-05-11,Groceries,Check,Monthly groceries,8581.46,837.65
+2024-05-14,Travel,Debit_card,Flights,3325.99,259.13
+2024-05-01,Entertainment,Paypal,Tour,3497.66,271.9
+2024-05-02,Utilities,Paytm,Electricity bill,1345.28,104.34
+2024-05-12,Travel,Paytm,Flights,9566.5,728.97
+2024-05-27,Rent,Gpay,Monthly house rent,7479.09,128.76
+2024-05-01,Entertainment,Check,Day off,2925.63,167.22
+2024-05-15,Entertainment,Paytm,Day off,1982.2,130.47
+2024-05-10,Rent,Gpay,Monthly house rent,1632.35,89.71
+2024-05-18,Subscription,Credit_card,Netflix,5752.58,211.42
+2024-05-20,Rent,Bank_transfer,Monthly house rent,3380.29,304.07
+2024-05-24,Rent,Gpay,Monthly house rent,1980.57,75.14
+2024-05-04,Travel,Gpay,Transportation,2013.27,199.97
+2024-05-06,Groceries,Debit_card,Monthly groceries,7007.15,558.92
+2024-05-10,Rent,Paypal,Monthly house rent,1492.01,5.6
+2024-05-24,Insurance,Credit_card,Life,2861.42,195.92
+2024-05-27,Utilities,Paytm,Electricity bill,8524.98,753.41
+2024-05-25,Subscription,Credit_card,Netflix,4779.53,162.59
+2024-05-11,Utilities,Visa,Electricity bill,1832.71,57.19
+2024-05-23,Travel,Credit_card,Transportation,5933.85,11.9
+2024-05-07,Utilities,Credit_card,Electricity bill,3626.88,274.2
+2024-05-18,Rent,Debit_card,Monthly house rent,2615.6,22.44
+2024-05-06,Utilities,Debit_card,Electricity bill,9714.57,243.68
+2024-05-10,Groceries,Paytm,Monthly groceries,8697.01,558.93
+2024-05-07,Groceries,Debit_card,Monthly groceries,3959.48,44.65
+2024-05-15,Utilities,Debit_card,Water bill,1643.93,46.73
+2024-05-19,Utilities,Paypal,Internet bill,8326.23,649.06
+2024-05-26,Subscription,Debit_card,Netflix,6183.22,436.41
+2024-05-08,Utilities,Visa,Internet bill,7669.8,604.83
+2024-05-28,Travel,Cash,Accommodation,3696.94,369.57
+2024-05-28,Subscription,Paypal,Netflix,2517.38,193.73
+2024-05-14,Rent,Bank_transfer,Monthly house rent,7294.07,206.21
+2024-05-17,Travel,Visa,Flights,1720.0,163.62
+2024-05-02,Groceries,Gpay,Monthly groceries,4993.6,65.37
+2024-05-29,Travel,Paypal,Flights,6015.43,346.27
+2024-05-13,Travel,Cash,Flights,4619.76,405.45
+2024-05-09,Travel,Cash,Flights,2362.26,57.48
+2024-05-04,Insurance,Check,Car,5501.25,187.82
+2024-05-11,Utilities,Credit_card,Water bill,9467.2,445.47
+2024-05-11,Rent,Debit_card,Monthly house rent,3942.74,209.19
+2024-05-05,Entertainment,Credit_card,Went to movies,1158.81,4.97
+2024-05-15,Groceries,Gpay,Monthly groceries,6683.08,222.91
+2024-05-12,Entertainment,Bank_transfer,Tour,7241.74,434.28
+2024-05-14,Utilities,Paypal,Internet bill,4456.08,266.56
+2024-05-18,Utilities,Bank_transfer,Water bill,7852.41,759.35
+2024-05-28,Travel,Paypal,Flights,3669.74,149.32
+2024-05-21,Rent,Cash,Monthly house rent,6979.32,695.81
+2024-05-05,Utilities,Bank_transfer,Water bill,9479.41,115.37
+2024-05-13,Utilities,Debit_card,Internet bill,8621.88,241.91
+2024-05-24,Utilities,Check,Water bill,2962.41,171.52
+2024-05-17,Subscription,Paypal,Netflix,9569.37,117.02
+2024-05-16,Rent,Paytm,Monthly house rent,2960.19,95.23
+2024-05-22,Rent,Paypal,Monthly house rent,2703.73,99.86
+2024-05-02,Groceries,Visa,Monthly groceries,2661.98,253.57
+2024-05-24,Groceries,Bank_transfer,Monthly groceries,9252.43,640.27
+2024-05-18,Subscription,Bank_transfer,Netflix,1392.66,115.38
+2024-05-15,Utilities,Paypal,Internet bill,8827.01,205.14
+2024-05-19,Subscription,Credit_card,Netflix,2053.36,42.22
+2024-05-28,Utilities,Cash,Electricity bill,1265.9,77.69
+2024-05-12,Utilities,Paypal,Electricity bill,6368.81,178.24
+2024-05-17,Utilities,Check,Internet bill,9398.4,150.53
+2024-05-04,Groceries,Paypal,Monthly groceries,1919.99,30.71
+2024-05-21,Travel,Gpay,Transportation,5094.31,345.05
+2024-05-24,Rent,Gpay,Monthly house rent,9434.71,419.72
+2024-05-09,Travel,Debit_card,Transportation,9716.48,761.87
+2024-05-28,Utilities,Credit_card,Electricity bill,5735.79,277.91
+2024-05-07,Entertainment,Bank_transfer,Tour,6693.23,373.31
+2024-05-05,Utilities,Credit_card,Water bill,8264.91,817.08
+2024-05-14,Utilities,Bank_transfer,Water bill,1063.06,97.85
+2024-05-28,Travel,Paytm,Accommodation,1617.48,142.24
+2024-05-25,Rent,Bank_transfer,Monthly house rent,1343.03,12.74
+2024-05-09,Rent,Cash,Monthly house rent,9759.03,427.45
+2024-05-27,Travel,Visa,Accommodation,2845.6,56.56
+2024-05-20,Insurance,Credit_card,Life,4107.47,157.68
+2024-05-14,Subscription,Paypal,Netflix,3761.52,130.12
+2024-05-17,Rent,Gpay,Monthly house rent,9981.8,954.84
+2024-05-16,Groceries,Paypal,Monthly groceries,9918.22,746.99
+2024-05-02,Groceries,Bank_transfer,Monthly groceries,7373.42,187.62
+2024-05-03,Rent,Bank_transfer,Monthly house rent,2209.51,43.15
+2024-05-06,Entertainment,Check,Day off,3535.14,60.4
+2024-05-24,Travel,Gpay,Transportation,5020.93,198.28
+2024-05-02,Groceries,Check,Monthly groceries,3977.34,266.4
+2024-05-20,Rent,Bank_transfer,Monthly house rent,7127.57,450.53
+2024-05-16,Entertainment,Gpay,Day off,9355.6,668.9
+2024-05-30,Travel,Bank_transfer,Accommodation,2961.57,274.97
+2024-05-28,Subscription,Credit_card,Amazon Prime,1988.62,8.9
+2024-05-09,Subscription,Paypal,Netflix,4233.2,177.68
+2024-05-20,Travel,Paypal,Flights,7128.98,491.22
+2024-05-10,Travel,Check,Accommodation,4785.22,382.47
+2024-05-10,Groceries,Gpay,Monthly groceries,3019.78,105.22
+2024-05-09,Travel,Paytm,Accommodation,8307.44,483.2
+2024-05-05,Rent,Cash,Monthly house rent,5787.25,43.91
+2024-05-01,Travel,Gpay,Transportation,4006.65,271.02
+2024-05-19,Groceries,Credit_card,Monthly groceries,4478.84,115.67
+2024-05-21,Entertainment,Gpay,Day off,9834.43,324.92
+2024-05-24,Travel,Gpay,Flights,6749.31,373.51
+2024-05-20,Subscription,Cash,Netflix,6476.48,365.33
+2024-05-02,Travel,Credit_card,Transportation,5503.48,176.24
+2024-05-21,Insurance,Cash,Life,1533.74,86.11
+2024-05-23,Travel,Gpay,Transportation,6443.43,448.34
+2024-05-27,Subscription,Bank_transfer,Amazon Prime,6014.15,513.03
+2024-05-27,Utilities,Visa,Electricity bill,2017.99,96.65
+2024-05-30,Travel,Paypal,Accommodation,7428.26,643.47
+2024-05-03,Utilities,Visa,Electricity bill,1273.41,39.87
+2024-05-13,Rent,Debit_card,Monthly house rent,8904.72,10.27
+2024-05-12,Groceries,Paytm,Monthly groceries,1180.59,74.76
+2024-05-22,Subscription,Paytm,Amazon Prime,7827.24,46.93
+2024-05-26,Entertainment,Gpay,Went to movies,7970.85,521.16
+2024-05-17,Utilities,Debit_card,Internet bill,6069.64,368.56
+2024-05-29,Travel,Credit_card,Accommodation,8813.44,678.76
+2024-05-24,Entertainment,Check,Went to movies,3943.99,187.27
+2024-05-23,Entertainment,Cash,Tour,5381.97,215.35
+2024-05-14,Subscription,Check,Amazon Prime,1490.57,59.17
+2024-05-11,Utilities,Check,Electricity bill,7112.3,328.63
+2024-05-07,Entertainment,Bank_transfer,Day off,7584.32,482.02
+2024-05-26,Subscription,Debit_card,Netflix,9143.35,702.03
+2024-05-30,Insurance,Check,Life,7506.09,37.57
+2024-05-13,Travel,Cash,Transportation,4282.34,215.32
+2024-05-12,Entertainment,Visa,Day off,4629.9,292.96
+2024-05-29,Subscription,Bank_transfer,Netflix,2388.74,168.52
+2024-05-16,Groceries,Check,Monthly groceries,9500.72,652.8
+2024-05-13,Travel,Paypal,Accommodation,8255.66,426.84
+2024-05-14,Travel,Gpay,Flights,5322.35,351.63
+2024-05-11,Insurance,Visa,Life,2781.55,8.91
+2024-05-30,Insurance,Gpay,Life,5721.89,262.77
+2024-05-04,Subscription,Cash,Amazon Prime,1733.54,124.52
+2024-05-26,Rent,Gpay,Monthly house rent,5849.14,470.02
+2024-05-25,Travel,Visa,Flights,2498.32,36.64
+2024-05-02,Utilities,Check,Electricity bill,2123.69,101.16
+2024-05-26,Insurance,Visa,Life,2920.91,182.53
+2024-05-30,Rent,Debit_card,Monthly house rent,5782.48,250.31
+2024-05-07,Rent,Visa,Monthly house rent,8221.1,154.5
+2024-05-11,Subscription,Debit_card,Amazon Prime,2196.99,158.29
+2024-05-04,Groceries,Check,Monthly groceries,2423.65,190.63
+2024-05-19,Groceries,Gpay,Monthly groceries,8900.77,434.66
+2024-05-04,Groceries,Credit_card,Monthly groceries,1166.08,72.49
+2024-05-24,Subscription,Debit_card,Netflix,7615.0,344.65
+2024-05-05,Travel,Paytm,Accommodation,5252.47,378.83
+2024-05-06,Utilities,Visa,Water bill,4958.87,422.87
+2024-05-08,Rent,Cash,Monthly house rent,9244.39,671.64
+2024-06-19,Entertainment,Cash,Went to movies,6909.56,265.09
+2024-06-11,Insurance,Paypal,Life,4474.07,151.15
+2024-06-12,Entertainment,Debit_card,Went to movies,3522.72,342.3
+2024-06-19,Utilities,Debit_card,Internet bill,9405.26,453.1
+2024-06-14,Entertainment,Gpay,Tour,4337.11,86.86
+2024-06-18,Rent,Cash,Monthly house rent,2119.15,72.47
+2024-06-07,Travel,Gpay,Accommodation,5885.45,413.8
+2024-06-02,Entertainment,Debit_card,Day off,1000.49,93.49
+2024-06-09,Travel,Bank_transfer,Accommodation,7941.94,517.78
+2024-06-23,Entertainment,Paytm,Tour,8091.67,637.35
+2024-06-19,Utilities,Check,Water bill,1295.8,124.0
+2024-06-14,Insurance,Bank_transfer,Life,6131.09,343.4
+2024-06-18,Subscription,Credit_card,Amazon Prime,8322.16,830.43
+2024-06-05,Subscription,Paytm,Amazon Prime,5736.06,381.5
+2024-06-24,Entertainment,Cash,Day off,9654.93,901.45
+2024-06-19,Utilities,Visa,Internet bill,5314.55,279.59
+2024-06-08,Entertainment,Credit_card,Day off,5133.45,197.13
+2024-06-05,Rent,Cash,Monthly house rent,5041.09,58.87
+2024-06-24,Insurance,Check,Life,9044.29,250.83
+2024-06-11,Insurance,Paytm,Car,3229.58,313.77
+2024-06-14,Utilities,Debit_card,Internet bill,3120.76,122.87
+2024-06-10,Groceries,Bank_transfer,Monthly groceries,6695.46,348.31
+2024-06-05,Subscription,Cash,Amazon Prime,5116.41,117.18
+2024-06-25,Subscription,Paytm,Netflix,6019.55,284.83
+2024-06-14,Groceries,Gpay,Monthly groceries,4004.63,309.68
+2024-06-01,Travel,Paytm,Transportation,6099.37,49.41
+2024-06-17,Insurance,Gpay,Car,1425.22,122.24
+2024-06-17,Entertainment,Cash,Went to movies,1933.96,89.03
+2024-06-26,Rent,Credit_card,Monthly house rent,4158.2,262.82
+2024-06-29,Entertainment,Bank_transfer,Tour,3987.89,13.37
+2024-06-21,Utilities,Gpay,Electricity bill,8227.43,237.57
+2024-06-13,Travel,Visa,Accommodation,2048.9,103.85
+2024-06-18,Subscription,Credit_card,Amazon Prime,8499.62,352.45
+2024-06-22,Entertainment,Paypal,Day off,5227.41,443.0
+2024-06-02,Subscription,Paytm,Amazon Prime,3097.12,102.6
+2024-06-29,Insurance,Credit_card,Car,9910.77,332.21
+2024-06-22,Entertainment,Cash,Day off,2818.2,203.57
+2024-06-29,Travel,Credit_card,Accommodation,6528.68,266.74
+2024-06-20,Entertainment,Cash,Tour,4787.71,439.49
+2024-06-20,Groceries,Paytm,Monthly groceries,8524.16,272.28
+2024-06-16,Entertainment,Bank_transfer,Went to movies,2455.44,129.5
+2024-06-07,Insurance,Debit_card,Life,2715.71,174.53
+2024-06-05,Travel,Debit_card,Flights,3897.31,185.34
+2024-06-23,Subscription,Debit_card,Amazon Prime,3386.16,200.57
+2024-06-13,Rent,Credit_card,Monthly house rent,4002.43,28.89
+2024-06-04,Insurance,Visa,Car,3189.22,211.01
+2024-06-26,Insurance,Paypal,Car,3082.04,54.11
+2024-06-05,Travel,Bank_transfer,Flights,7575.69,502.32
+2024-06-26,Utilities,Bank_transfer,Water bill,6554.45,648.59
+2024-06-17,Utilities,Gpay,Internet bill,3179.71,162.86
+2024-06-25,Rent,Bank_transfer,Monthly house rent,9965.3,784.97
+2024-06-20,Groceries,Cash,Monthly groceries,9547.89,459.43
+2024-06-28,Groceries,Visa,Monthly groceries,1461.36,125.86
+2024-06-21,Utilities,Check,Water bill,8890.92,817.12
+2024-06-22,Rent,Visa,Monthly house rent,2626.46,69.86
+2024-06-09,Insurance,Visa,Car,3716.4,271.76
+2024-06-21,Utilities,Cash,Internet bill,7569.23,389.71
+2024-06-20,Insurance,Paypal,Life,6199.68,457.83
+2024-06-14,Subscription,Debit_card,Amazon Prime,6183.42,80.37
+2024-06-17,Insurance,Paytm,Car,1036.07,75.16
+2024-06-09,Utilities,Paypal,Internet bill,9283.22,39.12
+2024-06-06,Utilities,Check,Water bill,2055.44,141.38
+2024-06-28,Groceries,Bank_transfer,Monthly groceries,6131.87,440.92
+2024-06-02,Groceries,Paypal,Monthly groceries,9034.63,70.97
+2024-06-24,Entertainment,Visa,Went to movies,7824.37,250.78
+2024-06-20,Entertainment,Paypal,Tour,4568.36,69.55
+2024-06-14,Rent,Paypal,Monthly house rent,1383.43,115.16
+2024-06-13,Insurance,Bank_transfer,Life,9376.2,551.01
+2024-06-16,Groceries,Credit_card,Monthly groceries,7555.78,205.49
+2024-06-11,Insurance,Debit_card,Car,3809.81,16.31
+2024-06-27,Insurance,Check,Life,1129.88,27.83
+2024-06-22,Groceries,Gpay,Monthly groceries,4826.62,44.65
+2024-06-18,Subscription,Check,Netflix,8688.2,325.99
+2024-06-16,Rent,Credit_card,Monthly house rent,8929.9,51.46
+2024-06-24,Insurance,Cash,Life,2875.24,20.34
+2024-06-25,Groceries,Credit_card,Monthly groceries,2363.4,79.69
+2024-06-19,Travel,Cash,Transportation,1388.25,38.25
+2024-06-19,Insurance,Visa,Life,8133.99,445.28
+2024-06-25,Subscription,Debit_card,Netflix,5075.31,309.29
+2024-06-27,Utilities,Debit_card,Internet bill,7308.33,272.21
+2024-06-13,Entertainment,Cash,Tour,1879.77,5.92
+2024-06-11,Travel,Cash,Transportation,1394.37,13.7
+2024-06-21,Groceries,Paypal,Monthly groceries,1012.76,37.05
+2024-06-27,Utilities,Visa,Electricity bill,1457.15,58.7
+2024-06-14,Utilities,Paytm,Water bill,9498.09,872.75
+2024-06-26,Travel,Bank_transfer,Flights,5981.61,162.98
+2024-06-23,Rent,Debit_card,Monthly house rent,3385.78,76.67
+2024-06-08,Utilities,Visa,Internet bill,1690.63,136.45
+2024-06-03,Utilities,Visa,Water bill,4479.93,385.66
+2024-06-25,Groceries,Bank_transfer,Monthly groceries,1729.43,123.13
+2024-06-03,Rent,Gpay,Monthly house rent,2707.18,182.04
+2024-06-06,Utilities,Visa,Water bill,5702.27,335.04
+2024-06-13,Travel,Credit_card,Flights,1533.34,97.27
+2024-06-25,Entertainment,Paytm,Tour,1499.54,95.1
+2024-06-26,Subscription,Gpay,Amazon Prime,5035.03,296.9
+2024-06-27,Rent,Cash,Monthly house rent,4383.55,332.63
+2024-06-03,Groceries,Check,Monthly groceries,1718.95,102.36
+2024-06-28,Groceries,Gpay,Monthly groceries,2947.14,160.79
+2024-06-01,Rent,Bank_transfer,Monthly house rent,8908.69,369.32
+2024-06-14,Travel,Paypal,Accommodation,4216.65,129.34
+2024-06-26,Insurance,Bank_transfer,Life,6143.69,514.59
+2024-06-22,Travel,Cash,Flights,8684.13,198.88
+2024-06-05,Rent,Paytm,Monthly house rent,2963.27,254.45
+2024-06-19,Groceries,Bank_transfer,Monthly groceries,1648.68,107.07
+2024-06-23,Entertainment,Visa,Tour,1571.28,94.19
+2024-06-05,Subscription,Paypal,Amazon Prime,4034.33,338.15
+2024-06-27,Travel,Debit_card,Transportation,8489.67,149.48
+2024-06-23,Insurance,Debit_card,Car,4017.1,295.5
+2024-06-25,Insurance,Debit_card,Car,5031.17,405.13
+2024-06-15,Insurance,Debit_card,Life,9522.39,542.67
+2024-06-16,Travel,Gpay,Accommodation,8152.44,144.03
+2024-06-18,Groceries,Paypal,Monthly groceries,2297.34,14.47
+2024-06-22,Groceries,Paytm,Monthly groceries,4780.15,368.89
+2024-06-03,Utilities,Paytm,Internet bill,3436.96,306.51
+2024-06-29,Utilities,Visa,Electricity bill,6852.4,507.08
+2024-06-05,Entertainment,Paytm,Tour,6205.12,70.56
+2024-06-03,Travel,Credit_card,Accommodation,4790.37,407.7
+2024-06-03,Groceries,Cash,Monthly groceries,5439.18,474.24
+2024-06-21,Utilities,Credit_card,Internet bill,3503.63,143.23
+2024-06-09,Travel,Paytm,Transportation,9509.15,622.58
+2024-06-15,Rent,Visa,Monthly house rent,3825.37,272.34
+2024-06-29,Rent,Cash,Monthly house rent,7832.97,534.16
+2024-06-02,Utilities,Paypal,Internet bill,5817.96,309.65
+2024-06-22,Subscription,Debit_card,Netflix,5289.17,377.81
+2024-06-06,Travel,Gpay,Transportation,2315.31,200.74
+2024-06-10,Utilities,Paypal,Water bill,6885.35,460.47
+2024-06-15,Utilities,Cash,Electricity bill,6488.48,255.23
+2024-06-02,Travel,Cash,Flights,5891.49,335.73
+2024-06-16,Subscription,Debit_card,Netflix,9317.09,477.04
+2024-06-28,Travel,Visa,Flights,9206.17,270.35
+2024-06-14,Subscription,Debit_card,Amazon Prime,2840.97,61.0
+2024-06-15,Rent,Debit_card,Monthly house rent,9204.51,47.94
+2024-06-16,Subscription,Debit_card,Amazon Prime,4395.61,437.75
+2024-06-10,Rent,Credit_card,Monthly house rent,2951.75,44.44
+2024-06-14,Rent,Paytm,Monthly house rent,4897.29,153.24
+2024-06-16,Insurance,Visa,Car,4963.51,404.55
+2024-06-03,Utilities,Paypal,Internet bill,2391.99,111.86
+2024-06-07,Insurance,Paypal,Car,3793.18,87.61
+2024-06-15,Subscription,Visa,Netflix,6562.24,347.48
+2024-06-21,Insurance,Paypal,Life,2909.99,58.21
+2024-06-04,Entertainment,Visa,Tour,6245.49,417.5
+2024-06-16,Entertainment,Gpay,Tour,3803.36,369.67
+2024-06-21,Rent,Credit_card,Monthly house rent,5064.82,221.67
+2024-06-20,Groceries,Cash,Monthly groceries,7141.55,611.34
+2024-06-11,Subscription,Paytm,Netflix,6134.82,124.26
+2024-06-09,Groceries,Credit_card,Monthly groceries,6348.57,601.24
+2024-06-10,Entertainment,Gpay,Tour,6354.99,214.9
+2024-06-16,Insurance,Credit_card,Car,7355.38,686.45
+2024-06-12,Entertainment,Visa,Tour,8343.19,695.87
+2024-06-12,Entertainment,Debit_card,Tour,1327.41,92.77
+2024-07-02,Subscription,Gpay,Netflix,2127.23,146.08
+2024-07-02,Insurance,Cash,Life,6510.11,542.66
+2024-07-17,Groceries,Check,Monthly groceries,5949.42,325.67
+2024-07-03,Travel,Visa,Flights,9753.49,548.05
+2024-07-11,Subscription,Paypal,Amazon Prime,7493.34,37.88
+2024-07-23,Insurance,Debit_card,Life,3984.35,365.38
+2024-07-28,Insurance,Paytm,Car,7632.61,282.61
+2024-07-02,Utilities,Paytm,Electricity bill,5475.21,33.32
+2024-07-24,Travel,Debit_card,Accommodation,5115.48,139.51
+2024-07-22,Travel,Credit_card,Accommodation,4809.5,357.15
+2024-07-10,Travel,Paytm,Accommodation,8954.02,660.17
+2024-07-23,Insurance,Paytm,Car,3284.35,243.56
+2024-07-03,Entertainment,Bank_transfer,Went to movies,6469.38,17.74
+2024-07-22,Groceries,Gpay,Monthly groceries,4858.12,425.18
+2024-07-26,Groceries,Visa,Monthly groceries,7084.76,263.39
+2024-07-06,Insurance,Paytm,Car,3138.15,83.34
+2024-07-12,Utilities,Cash,Water bill,1770.54,57.89
+2024-07-30,Groceries,Check,Monthly groceries,6324.82,585.26
+2024-07-12,Rent,Check,Monthly house rent,1959.6,192.74
+2024-07-09,Utilities,Visa,Water bill,2133.34,92.92
+2024-07-21,Groceries,Paypal,Monthly groceries,9256.93,403.5
+2024-07-27,Insurance,Gpay,Car,1638.72,150.63
+2024-07-11,Entertainment,Visa,Tour,2567.52,228.14
+2024-07-03,Subscription,Cash,Netflix,7568.85,751.81
+2024-07-21,Rent,Paypal,Monthly house rent,4296.61,348.09
+2024-07-11,Rent,Paypal,Monthly house rent,4326.46,207.36
+2024-07-30,Subscription,Cash,Netflix,9210.76,762.58
+2024-07-21,Insurance,Debit_card,Car,6790.95,126.47
+2024-07-11,Subscription,Bank_transfer,Netflix,3178.4,128.91
+2024-07-21,Utilities,Visa,Internet bill,7832.17,239.37
+2024-07-25,Utilities,Visa,Water bill,4963.7,344.62
+2024-07-16,Insurance,Debit_card,Car,4015.65,63.0
+2024-07-24,Groceries,Check,Monthly groceries,8649.03,499.93
+2024-07-12,Utilities,Cash,Water bill,5528.35,39.78
+2024-07-28,Insurance,Paypal,Life,4201.22,100.11
+2024-07-21,Groceries,Bank_transfer,Monthly groceries,9069.07,504.72
+2024-07-25,Groceries,Credit_card,Monthly groceries,2522.69,79.2
+2024-07-14,Groceries,Check,Monthly groceries,1265.08,45.14
+2024-07-22,Insurance,Debit_card,Life,5206.8,81.03
+2024-07-26,Rent,Bank_transfer,Monthly house rent,7940.9,87.71
+2024-07-19,Groceries,Credit_card,Monthly groceries,4450.97,319.95
+2024-07-17,Groceries,Visa,Monthly groceries,4774.95,218.3
+2024-07-28,Insurance,Visa,Car,1982.04,191.31
+2024-07-25,Utilities,Visa,Internet bill,9918.77,10.95
+2024-07-28,Rent,Cash,Monthly house rent,2897.29,282.67
+2024-07-05,Rent,Credit_card,Monthly house rent,1826.86,148.35
+2024-07-06,Subscription,Cash,Amazon Prime,1914.92,144.9
+2024-07-18,Entertainment,Paytm,Tour,8598.32,728.54
+2024-07-18,Utilities,Debit_card,Electricity bill,5914.69,346.41
+2024-07-05,Groceries,Debit_card,Monthly groceries,3434.1,275.41
+2024-07-04,Subscription,Credit_card,Amazon Prime,9390.42,662.9
+2024-07-30,Utilities,Paytm,Water bill,7607.94,607.31
+2024-07-27,Groceries,Bank_transfer,Monthly groceries,4945.47,22.64
+2024-07-22,Entertainment,Paypal,Tour,9684.3,359.16
+2024-07-28,Rent,Gpay,Monthly house rent,1945.22,142.93
+2024-07-09,Subscription,Paytm,Amazon Prime,7180.16,190.14
+2024-07-17,Utilities,Visa,Water bill,7491.45,351.66
+2024-07-27,Subscription,Visa,Amazon Prime,6641.74,563.13
+2024-07-26,Travel,Debit_card,Flights,5265.07,36.57
+2024-07-02,Travel,Cash,Transportation,9067.6,529.94
+2024-07-13,Utilities,Paypal,Water bill,6501.32,511.23
+2024-07-21,Rent,Visa,Monthly house rent,4441.43,150.88
+2024-07-18,Subscription,Visa,Netflix,5413.63,237.41
+2024-07-26,Rent,Cash,Monthly house rent,2383.58,100.03
+2024-07-16,Rent,Bank_transfer,Monthly house rent,1661.8,50.79
+2024-07-27,Groceries,Visa,Monthly groceries,2355.12,27.25
+2024-07-16,Subscription,Gpay,Netflix,6311.93,232.34
+2024-07-03,Entertainment,Bank_transfer,Day off,2075.11,66.9
+2024-07-28,Rent,Credit_card,Monthly house rent,7700.21,687.44
+2024-07-28,Utilities,Paytm,Electricity bill,9065.87,377.16
+2024-07-10,Insurance,Bank_transfer,Car,9383.92,627.4
+2024-07-09,Insurance,Check,Car,3536.21,264.81
+2024-07-08,Rent,Cash,Monthly house rent,1294.01,114.93
+2024-07-22,Groceries,Cash,Monthly groceries,1470.27,11.23
+2024-07-24,Travel,Debit_card,Flights,7261.5,344.29
+2024-07-26,Subscription,Debit_card,Netflix,3672.8,72.71
+2024-07-09,Travel,Check,Transportation,2570.57,91.04
+2024-07-08,Subscription,Paypal,Netflix,2033.35,14.36
+2024-07-22,Utilities,Paypal,Internet bill,2556.11,68.46
+2024-07-24,Utilities,Gpay,Water bill,9964.99,790.95
+2024-07-22,Subscription,Cash,Netflix,1661.46,51.78
+2024-07-22,Insurance,Credit_card,Car,9996.98,606.25
+2024-07-07,Travel,Paytm,Transportation,1251.29,71.6
+2024-07-18,Rent,Paypal,Monthly house rent,8135.97,298.82
+2024-07-05,Travel,Check,Flights,4772.27,316.56
+2024-07-19,Rent,Gpay,Monthly house rent,4019.77,360.28
+2024-07-11,Utilities,Cash,Electricity bill,5192.78,93.95
+2024-07-11,Subscription,Visa,Amazon Prime,7059.2,51.18
+2024-07-21,Entertainment,Check,Tour,6812.76,89.78
+2024-07-15,Groceries,Paytm,Monthly groceries,6779.6,44.24
+2024-07-17,Rent,Paytm,Monthly house rent,8338.42,371.11
+2024-07-11,Rent,Credit_card,Monthly house rent,8081.59,404.46
+2024-07-21,Utilities,Gpay,Internet bill,3375.13,231.03
+2024-07-03,Subscription,Visa,Netflix,4448.94,129.52
+2024-07-03,Subscription,Cash,Amazon Prime,5660.07,415.67
+2024-07-20,Rent,Visa,Monthly house rent,1757.05,111.07
+2024-07-25,Insurance,Paypal,Life,9026.47,796.26
+2024-07-25,Insurance,Bank_transfer,Life,9464.96,15.87
+2024-07-15,Travel,Credit_card,Accommodation,8765.04,762.16
+2024-07-04,Subscription,Bank_transfer,Netflix,8769.1,104.52
+2024-07-23,Rent,Bank_transfer,Monthly house rent,4783.39,204.01
+2024-07-20,Rent,Paytm,Monthly house rent,4248.56,263.82
+2024-07-12,Utilities,Paypal,Electricity bill,2778.69,154.24
+2024-07-21,Rent,Bank_transfer,Monthly house rent,7027.28,352.21
+2024-07-28,Subscription,Cash,Amazon Prime,9801.26,978.65
+2024-07-27,Groceries,Debit_card,Monthly groceries,3053.2,206.45
+2024-07-01,Entertainment,Gpay,Tour,3091.51,145.31
+2024-07-22,Insurance,Paytm,Car,1409.99,139.51
+2024-07-23,Insurance,Visa,Car,6423.35,414.15
+2024-07-19,Groceries,Paypal,Monthly groceries,5533.58,438.51
+2024-07-08,Subscription,Paytm,Netflix,2401.4,30.06
+2024-07-09,Rent,Paypal,Monthly house rent,9072.1,308.43
+2024-07-25,Rent,Paypal,Monthly house rent,8069.73,431.38
+2024-07-10,Rent,Paypal,Monthly house rent,2078.01,40.66
+2024-07-04,Utilities,Credit_card,Electricity bill,7838.39,378.56
+2024-07-11,Groceries,Gpay,Monthly groceries,6180.13,374.0
+2024-07-03,Utilities,Paypal,Electricity bill,8655.25,600.97
+2024-07-09,Entertainment,Credit_card,Tour,1989.68,112.72
+2024-07-29,Groceries,Debit_card,Monthly groceries,6071.46,464.6
+2024-07-05,Rent,Check,Monthly house rent,6903.89,171.07
+2024-07-05,Rent,Debit_card,Monthly house rent,8379.66,222.43
+2024-07-11,Subscription,Debit_card,Amazon Prime,7256.84,240.93
+2024-07-16,Subscription,Debit_card,Amazon Prime,8795.9,400.76
+2024-07-25,Entertainment,Credit_card,Went to movies,6951.14,288.56
+2024-07-09,Insurance,Credit_card,Life,4748.2,74.73
+2024-07-26,Travel,Credit_card,Accommodation,3272.5,311.23
+2024-07-16,Utilities,Cash,Internet bill,1515.99,118.31
+2024-07-17,Travel,Debit_card,Transportation,6312.54,545.34
+2024-07-14,Entertainment,Visa,Went to movies,9235.87,689.47
+2024-07-20,Subscription,Paytm,Netflix,4396.93,231.63
+2024-07-02,Utilities,Cash,Water bill,8741.47,451.97
+2024-07-16,Entertainment,Check,Day off,8255.29,629.18
+2024-07-01,Insurance,Credit_card,Car,3724.95,283.69
+2024-07-25,Subscription,Visa,Amazon Prime,7869.64,162.43
+2024-07-03,Utilities,Cash,Internet bill,6516.58,12.9
+2024-07-30,Rent,Paytm,Monthly house rent,7427.68,198.64
+2024-07-06,Rent,Paypal,Monthly house rent,3754.82,198.08
+2024-07-23,Travel,Paytm,Flights,7898.74,408.73
+2024-07-01,Insurance,Paytm,Life,2004.14,57.06
+2024-07-26,Entertainment,Gpay,Went to movies,1762.45,90.37
+2024-07-08,Rent,Cash,Monthly house rent,2495.9,211.77
+2024-07-05,Rent,Bank_transfer,Monthly house rent,9930.03,497.52
+2024-07-06,Groceries,Paypal,Monthly groceries,4647.38,262.35
+2024-07-11,Groceries,Paytm,Monthly groceries,2417.59,8.87
+2024-07-16,Subscription,Paypal,Amazon Prime,1744.66,29.49
+2024-07-07,Utilities,Cash,Electricity bill,7320.57,678.05
+2024-07-20,Entertainment,Check,Went to movies,2187.5,202.19
+2024-07-04,Groceries,Debit_card,Monthly groceries,2100.92,65.12
+2024-07-14,Travel,Cash,Flights,9379.77,299.08
+2024-07-13,Groceries,Paytm,Monthly groceries,4052.92,134.47
+2024-08-27,Subscription,Credit_card,Netflix,2252.52,224.16
+2024-08-18,Rent,Gpay,Monthly house rent,7933.53,309.49
+2024-08-10,Groceries,Check,Monthly groceries,3429.49,156.85
+2024-08-23,Groceries,Bank_transfer,Monthly groceries,3386.88,72.04
+2024-08-12,Utilities,Paytm,Internet bill,6676.92,263.9
+2024-08-07,Subscription,Debit_card,Netflix,1447.13,40.89
+2024-08-07,Subscription,Bank_transfer,Netflix,8563.86,83.43
+2024-08-21,Rent,Paytm,Monthly house rent,4282.6,28.65
+2024-08-06,Utilities,Debit_card,Water bill,4394.82,173.65
+2024-08-26,Utilities,Debit_card,Water bill,8485.84,581.95
+2024-08-19,Subscription,Visa,Netflix,7197.37,680.18
+2024-08-17,Utilities,Cash,Water bill,1319.89,16.57
+2024-08-01,Travel,Debit_card,Flights,5107.1,476.02
+2024-08-17,Utilities,Check,Internet bill,8107.49,789.7
+2024-08-23,Groceries,Cash,Monthly groceries,7420.19,655.65
+2024-08-19,Rent,Bank_transfer,Monthly house rent,3891.44,300.76
+2024-08-12,Travel,Cash,Accommodation,1292.31,15.13
+2024-08-16,Groceries,Cash,Monthly groceries,1962.6,193.18
+2024-08-03,Insurance,Credit_card,Car,6703.74,457.45
+2024-08-24,Groceries,Cash,Monthly groceries,7492.7,464.99
+2024-08-21,Utilities,Gpay,Water bill,5038.61,241.07
+2024-08-02,Entertainment,Paytm,Went to movies,5146.6,67.46
+2024-08-13,Rent,Debit_card,Monthly house rent,9220.25,671.81
+2024-08-25,Travel,Debit_card,Transportation,3200.49,188.74
+2024-08-02,Subscription,Credit_card,Amazon Prime,3234.57,137.01
+2024-08-27,Subscription,Paytm,Netflix,2644.37,134.42
+2024-08-02,Rent,Check,Monthly house rent,3048.71,40.47
+2024-08-07,Groceries,Check,Monthly groceries,1751.98,78.92
+2024-08-20,Groceries,Paypal,Monthly groceries,8857.62,795.88
+2024-08-01,Travel,Gpay,Accommodation,9047.27,835.21
+2024-08-18,Subscription,Paytm,Amazon Prime,7293.11,167.28
+2024-08-07,Insurance,Cash,Car,9493.63,513.78
+2024-08-28,Groceries,Paypal,Monthly groceries,5704.63,60.94
+2024-08-17,Subscription,Bank_transfer,Netflix,7434.88,503.54
+2024-08-25,Subscription,Bank_transfer,Netflix,1033.59,58.14
+2024-08-04,Subscription,Credit_card,Amazon Prime,1547.63,131.0
+2024-08-23,Subscription,Check,Netflix,7687.7,699.15
+2024-08-25,Entertainment,Visa,Tour,2425.14,227.16
+2024-08-03,Rent,Gpay,Monthly house rent,2165.64,142.23
+2024-08-06,Utilities,Paytm,Water bill,6239.89,65.04
+2024-08-03,Groceries,Visa,Monthly groceries,9351.25,570.05
+2024-08-08,Entertainment,Credit_card,Tour,4010.49,249.49
+2024-08-24,Utilities,Credit_card,Electricity bill,2855.47,195.32
+2024-08-24,Rent,Debit_card,Monthly house rent,1681.51,23.58
+2024-08-12,Insurance,Credit_card,Life,5153.04,397.14
+2024-08-19,Entertainment,Check,Day off,1539.62,149.01
+2024-08-12,Insurance,Gpay,Life,2906.57,278.19
+2024-08-11,Utilities,Debit_card,Internet bill,9762.52,178.42
+2024-08-09,Entertainment,Bank_transfer,Went to movies,7107.9,27.08
+2024-08-13,Travel,Paypal,Flights,4504.38,66.82
+2024-08-11,Rent,Bank_transfer,Monthly house rent,9216.52,287.39
+2024-08-27,Subscription,Paytm,Netflix,2723.96,141.2
+2024-08-23,Groceries,Bank_transfer,Monthly groceries,3008.34,7.29
+2024-08-10,Subscription,Bank_transfer,Amazon Prime,3636.13,200.58
+2024-08-11,Utilities,Credit_card,Electricity bill,5232.41,94.53
+2024-08-11,Travel,Cash,Flights,8165.57,631.74
+2024-08-20,Entertainment,Visa,Tour,6163.52,210.56
+2024-08-14,Entertainment,Credit_card,Tour,8249.98,14.84
+2024-08-26,Insurance,Visa,Car,8193.8,509.82
+2024-08-30,Utilities,Paytm,Electricity bill,8708.8,339.23
+2024-08-02,Rent,Check,Monthly house rent,2193.08,187.59
+2024-08-27,Subscription,Paypal,Netflix,4774.64,408.96
+2024-08-26,Groceries,Visa,Monthly groceries,2576.58,32.57
+2024-08-26,Insurance,Cash,Life,8025.67,681.45
+2024-08-12,Groceries,Gpay,Monthly groceries,9824.42,559.2
+2024-08-24,Groceries,Visa,Monthly groceries,8052.79,427.42
+2024-08-10,Insurance,Cash,Car,4895.26,122.51
+2024-08-06,Subscription,Paytm,Netflix,2377.43,210.74
+2024-08-24,Subscription,Credit_card,Netflix,2092.64,65.69
+2024-08-20,Insurance,Paypal,Life,2276.37,62.94
+2024-08-15,Groceries,Paytm,Monthly groceries,6764.45,193.63
+2024-08-23,Groceries,Paypal,Monthly groceries,3569.81,279.45
+2024-08-19,Travel,Credit_card,Transportation,1210.79,51.53
+2024-08-13,Entertainment,Visa,Went to movies,1280.68,92.12
+2024-08-25,Rent,Paypal,Monthly house rent,9881.31,744.51
+2024-08-07,Entertainment,Bank_transfer,Tour,5884.97,241.61
+2024-08-19,Entertainment,Bank_transfer,Tour,5959.38,271.35
+2024-08-08,Groceries,Credit_card,Monthly groceries,6031.42,11.4
+2024-08-22,Utilities,Paypal,Electricity bill,7168.11,623.23
+2024-08-09,Groceries,Gpay,Monthly groceries,4994.76,339.51
+2024-08-09,Utilities,Credit_card,Electricity bill,2512.01,76.04
+2024-08-05,Travel,Visa,Accommodation,5368.87,242.59
+2024-08-15,Insurance,Debit_card,Car,2588.05,125.83
+2024-08-06,Groceries,Paytm,Monthly groceries,8547.66,108.89
+2024-08-07,Utilities,Check,Internet bill,8786.77,660.05
+2024-08-10,Entertainment,Bank_transfer,Went to movies,9214.99,25.73
+2024-08-21,Insurance,Bank_transfer,Car,4141.99,30.8
+2024-08-28,Rent,Bank_transfer,Monthly house rent,7539.44,134.35
+2024-08-20,Groceries,Bank_transfer,Monthly groceries,1719.34,80.63
+2024-08-25,Travel,Gpay,Flights,5166.63,266.13
+2024-08-15,Groceries,Visa,Monthly groceries,2289.24,161.97
+2024-08-02,Subscription,Check,Amazon Prime,9076.38,840.86
+2024-08-30,Groceries,Debit_card,Monthly groceries,8459.29,280.61
+2024-08-24,Rent,Gpay,Monthly house rent,5620.64,56.98
+2024-08-07,Groceries,Paytm,Monthly groceries,6013.41,58.08
+2024-08-13,Subscription,Visa,Amazon Prime,4440.4,155.61
+2024-08-18,Insurance,Credit_card,Life,4721.21,29.84
+2024-08-25,Groceries,Visa,Monthly groceries,8475.56,696.34
+2024-08-21,Subscription,Debit_card,Amazon Prime,6861.77,605.31
+2024-08-13,Entertainment,Visa,Went to movies,9534.96,832.64
+2024-08-08,Insurance,Cash,Life,2969.23,105.34
+2024-08-28,Subscription,Credit_card,Amazon Prime,1694.22,29.79
+2024-08-17,Travel,Bank_transfer,Accommodation,6201.47,249.93
+2024-08-08,Groceries,Paypal,Monthly groceries,9708.98,610.19
+2024-08-02,Groceries,Check,Monthly groceries,7457.9,720.79
+2024-08-13,Entertainment,Credit_card,Went to movies,8561.17,128.74
+2024-08-10,Entertainment,Check,Tour,5840.56,233.69
+2024-08-26,Subscription,Credit_card,Amazon Prime,7541.42,729.82
+2024-08-27,Travel,Cash,Flights,7404.8,726.46
+2024-08-19,Travel,Credit_card,Transportation,8159.18,54.52
+2024-08-18,Travel,Cash,Flights,5675.94,61.3
+2024-08-25,Entertainment,Bank_transfer,Tour,5980.46,296.55
+2024-08-03,Insurance,Paytm,Life,4298.95,96.54
+2024-08-07,Subscription,Credit_card,Amazon Prime,6179.16,611.63
+2024-08-11,Groceries,Paypal,Monthly groceries,3644.39,206.07
+2024-08-19,Travel,Debit_card,Transportation,5666.48,153.85
+2024-08-13,Entertainment,Check,Went to movies,3722.99,353.52
+2024-08-29,Travel,Debit_card,Transportation,1096.76,57.81
+2024-08-15,Subscription,Paypal,Netflix,7803.46,477.15
+2024-08-20,Travel,Debit_card,Accommodation,1450.25,124.17
+2024-08-19,Subscription,Debit_card,Netflix,2453.15,50.49
+2024-08-29,Entertainment,Bank_transfer,Day off,3217.42,290.64
+2024-08-14,Utilities,Credit_card,Electricity bill,1949.04,157.73
+2024-08-09,Entertainment,Debit_card,Day off,8450.72,422.16
+2024-08-01,Subscription,Paypal,Netflix,3176.55,251.03
+2024-08-27,Insurance,Paytm,Life,1780.69,68.7
+2024-08-30,Groceries,Gpay,Monthly groceries,1687.16,17.84
+2024-08-06,Subscription,Cash,Netflix,7705.67,497.64
+2024-08-21,Entertainment,Check,Day off,4237.33,340.6
+2024-08-18,Rent,Paytm,Monthly house rent,2950.94,156.59
+2024-08-04,Utilities,Debit_card,Electricity bill,6574.84,85.89
+2024-08-26,Entertainment,Visa,Tour,6665.53,277.01
+2024-08-23,Subscription,Cash,Amazon Prime,3610.18,129.19
+2024-08-06,Subscription,Check,Netflix,7595.96,722.7
+2024-08-10,Rent,Gpay,Monthly house rent,2290.36,30.28
+2024-08-03,Rent,Visa,Monthly house rent,9386.22,312.78
+2024-08-13,Insurance,Gpay,Life,9875.34,635.24
+2024-08-15,Insurance,Visa,Car,4174.16,329.26
+2024-08-14,Travel,Credit_card,Flights,1669.19,164.33
+2024-08-02,Rent,Check,Monthly house rent,9578.4,881.09
+2024-08-27,Insurance,Credit_card,Car,6618.49,642.17
+2024-08-13,Groceries,Debit_card,Monthly groceries,8376.55,241.73
+2024-08-22,Groceries,Gpay,Monthly groceries,2001.53,95.39
+2024-08-17,Groceries,Credit_card,Monthly groceries,9465.77,798.59
+2024-08-19,Utilities,Credit_card,Water bill,3084.62,262.81
+2024-08-09,Subscription,Visa,Netflix,3190.66,291.69
+2024-08-28,Groceries,Cash,Monthly groceries,4898.14,402.18
+2024-08-07,Insurance,Visa,Car,1417.97,76.3
+2024-08-12,Entertainment,Gpay,Went to movies,9228.65,335.03
+2024-08-09,Entertainment,Bank_transfer,Tour,2758.38,56.78
+2024-09-29,Rent,Cash,Monthly house rent,4875.11,338.09
+2024-09-11,Travel,Credit_card,Accommodation,8882.3,608.17
+2024-09-05,Travel,Debit_card,Accommodation,9194.42,457.05
+2024-09-26,Travel,Check,Accommodation,2987.65,7.82
+2024-09-14,Insurance,Gpay,Car,7118.37,216.54
+2024-09-05,Rent,Credit_card,Monthly house rent,2299.47,114.05
+2024-09-13,Subscription,Debit_card,Netflix,6648.75,115.19
+2024-09-15,Entertainment,Visa,Tour,8999.19,613.57
+2024-09-19,Entertainment,Check,Tour,2735.37,47.41
+2024-09-26,Entertainment,Cash,Went to movies,7746.3,404.33
+2024-09-14,Entertainment,Credit_card,Went to movies,5858.16,69.6
+2024-09-11,Entertainment,Bank_transfer,Tour,2635.43,141.47
+2024-09-23,Subscription,Cash,Netflix,4539.67,418.95
+2024-09-14,Travel,Visa,Transportation,1511.46,108.49
+2024-09-05,Rent,Paypal,Monthly house rent,1763.86,85.39
+2024-09-04,Entertainment,Paypal,Day off,6299.06,22.58
+2024-09-18,Subscription,Debit_card,Amazon Prime,4249.66,253.98
+2024-09-15,Rent,Debit_card,Monthly house rent,5297.82,98.41
+2024-09-14,Groceries,Check,Monthly groceries,5047.04,177.55
+2024-09-06,Subscription,Gpay,Netflix,4074.93,279.28
+2024-09-28,Subscription,Paypal,Amazon Prime,6217.83,302.15
+2024-09-06,Groceries,Credit_card,Monthly groceries,4618.22,139.71
+2024-09-15,Travel,Gpay,Flights,4252.68,210.22
+2024-09-11,Utilities,Bank_transfer,Electricity bill,4344.41,236.95
+2024-09-28,Utilities,Cash,Electricity bill,4697.01,135.5
+2024-09-10,Travel,Check,Flights,6133.23,423.66
+2024-09-20,Subscription,Visa,Netflix,1099.4,0.17
+2024-09-12,Utilities,Debit_card,Water bill,6138.24,337.43
+2024-09-04,Groceries,Gpay,Monthly groceries,9974.72,923.25
+2024-09-13,Utilities,Debit_card,Electricity bill,7780.69,752.41
+2024-09-22,Entertainment,Bank_transfer,Tour,2278.48,99.62
+2024-09-05,Groceries,Visa,Monthly groceries,6830.45,230.67
+2024-09-21,Subscription,Cash,Netflix,8591.34,87.82
+2024-09-10,Subscription,Paytm,Netflix,3238.14,96.68
+2024-09-06,Utilities,Visa,Internet bill,9151.36,395.95
+2024-09-28,Rent,Visa,Monthly house rent,8147.81,722.57
+2024-09-03,Entertainment,Gpay,Day off,2063.77,169.11
+2024-09-24,Rent,Paypal,Monthly house rent,3813.01,206.51
+2024-09-18,Utilities,Cash,Water bill,6497.52,60.15
+2024-09-04,Rent,Gpay,Monthly house rent,9576.67,565.12
+2024-09-11,Insurance,Gpay,Life,5991.64,175.23
+2024-09-22,Rent,Debit_card,Monthly house rent,1637.51,143.83
+2024-09-06,Insurance,Paytm,Life,7354.52,75.5
+2024-09-10,Rent,Cash,Monthly house rent,7861.39,731.04
+2024-09-02,Utilities,Paypal,Water bill,4972.82,274.26
+2024-09-21,Entertainment,Bank_transfer,Day off,9207.68,366.1
+2024-09-19,Rent,Gpay,Monthly house rent,2609.55,33.28
+2024-09-04,Subscription,Cash,Amazon Prime,7262.53,343.74
+2024-09-21,Rent,Credit_card,Monthly house rent,5803.55,543.74
+2024-09-29,Subscription,Visa,Amazon Prime,2759.43,178.71
+2024-09-16,Insurance,Credit_card,Car,7808.48,154.69
+2024-09-12,Subscription,Bank_transfer,Amazon Prime,8407.1,147.87
+2024-09-08,Rent,Debit_card,Monthly house rent,4992.73,31.28
+2024-09-19,Travel,Debit_card,Flights,9238.31,806.49
+2024-09-29,Travel,Paytm,Accommodation,8132.97,417.15
+2024-09-21,Rent,Paytm,Monthly house rent,8520.23,311.51
+2024-09-07,Subscription,Check,Netflix,7264.33,560.63
+2024-09-24,Insurance,Bank_transfer,Life,2476.76,185.9
+2024-09-08,Travel,Gpay,Accommodation,8949.82,424.87
+2024-09-01,Utilities,Credit_card,Electricity bill,5600.86,282.87
+2024-09-23,Groceries,Credit_card,Monthly groceries,6405.68,551.53
+2024-09-02,Entertainment,Check,Day off,7387.97,179.81
+2024-09-12,Insurance,Cash,Car,1445.95,21.17
+2024-09-11,Entertainment,Gpay,Tour,7307.87,427.08
+2024-09-03,Travel,Cash,Flights,1033.88,22.24
+2024-09-24,Insurance,Debit_card,Life,7456.48,349.09
+2024-09-16,Travel,Paypal,Accommodation,7184.7,714.93
+2024-09-06,Utilities,Debit_card,Water bill,4995.78,226.78
+2024-09-05,Utilities,Cash,Electricity bill,3305.13,43.62
+2024-09-20,Entertainment,Cash,Day off,8055.32,670.24
+2024-09-22,Insurance,Paypal,Car,8163.09,83.18
+2024-09-26,Insurance,Credit_card,Car,3129.23,37.14
+2024-09-04,Rent,Credit_card,Monthly house rent,4129.83,47.84
+2024-09-06,Groceries,Paytm,Monthly groceries,2850.33,83.08
+2024-09-13,Subscription,Check,Amazon Prime,4767.0,471.67
+2024-09-24,Insurance,Visa,Life,2037.96,161.13
+2024-09-10,Groceries,Bank_transfer,Monthly groceries,8322.84,277.68
+2024-09-22,Travel,Visa,Accommodation,1570.41,154.82
+2024-09-20,Subscription,Bank_transfer,Netflix,9584.22,112.45
+2024-09-06,Utilities,Gpay,Electricity bill,3193.24,231.64
+2024-09-11,Insurance,Check,Life,5136.12,117.87
+2024-09-14,Insurance,Paytm,Car,6538.37,169.63
+2024-09-17,Utilities,Bank_transfer,Internet bill,6341.64,80.29
+2024-09-11,Groceries,Paytm,Monthly groceries,7678.82,22.59
+2024-09-14,Subscription,Cash,Amazon Prime,5411.9,288.89
+2024-09-25,Travel,Credit_card,Flights,3525.34,2.02
+2024-09-26,Groceries,Paypal,Monthly groceries,4225.07,124.48
+2024-09-09,Travel,Visa,Transportation,2773.56,174.25
+2024-09-06,Travel,Paytm,Flights,7635.8,406.87
+2024-09-26,Entertainment,Bank_transfer,Went to movies,7889.61,684.03
+2024-09-06,Insurance,Credit_card,Life,4806.29,77.02
+2024-09-14,Entertainment,Bank_transfer,Went to movies,4746.1,330.29
+2024-09-15,Subscription,Check,Netflix,7844.36,431.07
+2024-09-01,Insurance,Debit_card,Car,7812.58,474.11
+2024-09-20,Travel,Check,Flights,8989.84,378.43
+2024-09-23,Subscription,Bank_transfer,Netflix,9426.99,429.53
+2024-09-13,Utilities,Paypal,Electricity bill,1081.61,89.38
+2024-09-19,Subscription,Gpay,Netflix,7416.89,419.97
+2024-09-17,Travel,Check,Accommodation,3641.25,305.88
+2024-09-05,Rent,Bank_transfer,Monthly house rent,5214.64,63.53
+2024-09-13,Groceries,Paytm,Monthly groceries,5558.21,479.17
+2024-09-17,Rent,Check,Monthly house rent,5739.59,397.33
+2024-09-02,Rent,Visa,Monthly house rent,2512.72,154.92
+2024-09-02,Groceries,Debit_card,Monthly groceries,1965.32,108.71
+2024-09-19,Subscription,Check,Netflix,8294.54,730.57
+2024-09-07,Rent,Gpay,Monthly house rent,8184.32,142.04
+2024-09-23,Utilities,Credit_card,Water bill,9451.97,305.86
+2024-09-11,Rent,Credit_card,Monthly house rent,7473.7,73.59
+2024-09-09,Utilities,Cash,Electricity bill,3364.36,200.27
+2024-09-15,Insurance,Credit_card,Life,1540.93,59.16
+2024-09-04,Rent,Gpay,Monthly house rent,7533.63,551.72
+2024-09-20,Groceries,Cash,Monthly groceries,5787.46,479.38
+2024-09-03,Utilities,Bank_transfer,Water bill,5613.86,258.8
+2024-09-12,Rent,Gpay,Monthly house rent,9254.35,383.09
+2024-09-08,Groceries,Check,Monthly groceries,8266.25,173.06
+2024-09-28,Groceries,Gpay,Monthly groceries,1687.58,68.25
+2024-09-14,Rent,Visa,Monthly house rent,2107.21,124.45
+2024-09-10,Subscription,Cash,Amazon Prime,8497.05,523.63
+2024-09-28,Subscription,Paypal,Netflix,4110.32,329.67
+2024-09-29,Utilities,Bank_transfer,Electricity bill,6488.32,645.57
+2024-09-20,Travel,Visa,Accommodation,3651.4,99.73
+2024-09-07,Subscription,Credit_card,Amazon Prime,2427.52,193.48
+2024-09-18,Utilities,Paypal,Electricity bill,8506.03,445.52
+2024-09-14,Utilities,Gpay,Electricity bill,7253.64,649.43
+2024-09-23,Entertainment,Cash,Day off,3054.5,7.64
+2024-09-11,Groceries,Visa,Monthly groceries,4184.54,287.86
+2024-09-08,Rent,Paypal,Monthly house rent,9406.43,792.41
+2024-09-26,Entertainment,Visa,Went to movies,1317.25,37.82
+2024-09-15,Entertainment,Gpay,Day off,6134.64,364.38
+2024-09-11,Rent,Paypal,Monthly house rent,8733.99,92.75
+2024-09-08,Entertainment,Credit_card,Tour,6161.07,327.3
+2024-09-29,Insurance,Paypal,Life,1034.86,30.63
+2024-09-05,Utilities,Credit_card,Internet bill,8453.14,239.58
+2024-09-14,Utilities,Check,Water bill,3208.04,129.31
+2024-09-16,Utilities,Paypal,Electricity bill,1042.55,69.54
+2024-09-21,Travel,Paytm,Accommodation,6576.12,210.66
+2024-09-06,Insurance,Credit_card,Life,8696.73,526.97
+2024-09-14,Entertainment,Check,Went to movies,1647.97,94.27
+2024-09-06,Subscription,Debit_card,Netflix,3024.4,51.6
+2024-09-10,Subscription,Paypal,Amazon Prime,4340.29,231.28
+2024-09-15,Subscription,Visa,Netflix,2671.63,179.71
+2024-09-07,Entertainment,Paypal,Day off,1155.97,21.78
+2024-09-01,Travel,Visa,Accommodation,9114.86,629.93
+2024-09-21,Utilities,Gpay,Internet bill,3860.37,371.0
+2024-09-17,Travel,Debit_card,Accommodation,5548.45,203.67
+2024-09-16,Utilities,Cash,Electricity bill,6917.72,134.82
+2024-09-18,Entertainment,Visa,Tour,7175.3,228.74
+2024-09-11,Utilities,Visa,Water bill,1913.19,25.86
+2024-09-04,Groceries,Paypal,Monthly groceries,5309.52,435.72
+2024-09-11,Utilities,Visa,Electricity bill,6225.62,508.33
+2024-10-05,Travel,Paytm,Transportation,9402.72,197.03
+2024-10-24,Groceries,Paypal,Monthly groceries,9308.15,895.34
+2024-10-07,Groceries,Debit_card,Monthly groceries,8431.59,76.18
+2024-10-09,Entertainment,Cash,Day off,6184.79,29.95
+2024-10-25,Travel,Cash,Flights,2308.34,185.25
+2024-10-09,Subscription,Paypal,Amazon Prime,5144.92,351.59
+2024-10-22,Travel,Check,Flights,4079.8,176.17
+2024-10-10,Rent,Visa,Monthly house rent,5900.04,285.96
+2024-10-29,Utilities,Paytm,Electricity bill,8983.12,124.63
+2024-10-26,Travel,Debit_card,Transportation,2289.66,142.71
+2024-10-17,Subscription,Credit_card,Amazon Prime,1661.7,122.16
+2024-10-05,Groceries,Gpay,Monthly groceries,5239.22,136.59
+2024-10-12,Rent,Paytm,Monthly house rent,8666.32,745.32
+2024-10-03,Travel,Paytm,Accommodation,3589.79,73.04
+2024-10-20,Rent,Debit_card,Monthly house rent,7018.79,278.7
+2024-10-06,Groceries,Cash,Monthly groceries,9313.51,604.49
+2024-10-18,Travel,Debit_card,Accommodation,5277.15,184.57
+2024-10-21,Subscription,Debit_card,Amazon Prime,5449.59,434.58
+2024-10-20,Groceries,Check,Monthly groceries,5961.43,10.81
+2024-10-03,Groceries,Cash,Monthly groceries,2500.46,199.27
+2024-10-11,Travel,Bank_transfer,Transportation,7024.01,702.01
+2024-10-03,Utilities,Gpay,Electricity bill,2887.73,26.54
+2024-10-03,Insurance,Bank_transfer,Car,7738.52,182.52
+2024-10-27,Travel,Bank_transfer,Accommodation,2339.22,168.83
+2024-10-08,Insurance,Paypal,Car,1648.89,46.95
+2024-10-14,Subscription,Gpay,Amazon Prime,1507.96,145.04
+2024-10-30,Subscription,Credit_card,Netflix,2929.15,141.89
+2024-10-01,Insurance,Cash,Life,2159.14,104.2
+2024-10-27,Travel,Gpay,Flights,7115.45,547.71
+2024-10-01,Rent,Visa,Monthly house rent,1149.77,80.43
+2024-10-25,Entertainment,Paytm,Tour,6303.08,265.87
+2024-10-07,Groceries,Cash,Monthly groceries,3161.97,8.11
+2024-10-16,Rent,Debit_card,Monthly house rent,7290.12,269.1
+2024-10-30,Groceries,Cash,Monthly groceries,9459.51,229.62
+2024-10-26,Utilities,Bank_transfer,Electricity bill,6310.17,464.93
+2024-10-24,Subscription,Paypal,Netflix,3390.29,235.39
+2024-10-15,Insurance,Bank_transfer,Life,1833.93,99.9
+2024-10-01,Entertainment,Cash,Went to movies,7013.22,210.46
+2024-10-21,Utilities,Paypal,Electricity bill,2905.82,183.54
+2024-10-29,Groceries,Paypal,Monthly groceries,3011.17,224.94
+2024-10-26,Utilities,Bank_transfer,Electricity bill,7154.34,428.05
+2024-10-27,Utilities,Paypal,Electricity bill,3399.11,158.22
+2024-10-02,Rent,Gpay,Monthly house rent,1182.33,12.52
+2024-10-10,Groceries,Visa,Monthly groceries,5698.82,263.39
+2024-10-05,Utilities,Paytm,Water bill,8110.22,18.37
+2024-10-16,Entertainment,Check,Day off,8941.06,519.56
+2024-10-11,Insurance,Bank_transfer,Car,2961.87,168.24
+2024-10-12,Groceries,Check,Monthly groceries,1907.47,177.22
+2024-10-30,Subscription,Debit_card,Amazon Prime,7779.71,444.38
+2024-10-09,Insurance,Credit_card,Car,4934.21,98.58
+2024-10-08,Travel,Check,Transportation,6959.29,73.39
+2024-10-02,Entertainment,Gpay,Day off,7828.11,732.9
+2024-10-25,Travel,Cash,Flights,8092.05,223.05
+2024-10-25,Entertainment,Paytm,Tour,7981.19,4.36
+2024-10-01,Insurance,Paytm,Car,6758.26,371.98
+2024-10-13,Groceries,Bank_transfer,Monthly groceries,7453.96,136.01
+2024-10-03,Groceries,Debit_card,Monthly groceries,2769.03,258.11
+2024-10-08,Entertainment,Paypal,Went to movies,6420.55,76.22
+2024-10-17,Travel,Visa,Transportation,8834.81,163.17
+2024-10-19,Utilities,Debit_card,Water bill,4385.98,405.48
+2024-10-10,Travel,Cash,Transportation,4429.08,275.28
+2024-10-30,Travel,Debit_card,Flights,9071.34,403.12
+2024-10-08,Insurance,Bank_transfer,Car,6379.17,17.77
+2024-10-02,Groceries,Check,Monthly groceries,8008.71,769.2
+2024-10-06,Groceries,Cash,Monthly groceries,9950.29,627.3
+2024-10-18,Rent,Bank_transfer,Monthly house rent,9855.91,524.47
+2024-10-24,Utilities,Cash,Water bill,8360.22,807.88
+2024-10-25,Travel,Check,Transportation,8626.66,326.16
+2024-10-16,Rent,Debit_card,Monthly house rent,1987.32,102.77
+2024-10-12,Insurance,Debit_card,Life,4907.28,35.47
+2024-10-04,Travel,Bank_transfer,Flights,6469.28,369.12
+2024-10-25,Rent,Paytm,Monthly house rent,1774.2,58.92
+2024-10-03,Rent,Gpay,Monthly house rent,4298.78,193.14
+2024-10-21,Insurance,Paypal,Life,2333.45,198.8
+2024-10-11,Utilities,Paytm,Internet bill,9453.02,290.23
+2024-10-03,Utilities,Cash,Electricity bill,1558.44,56.56
+2024-10-01,Rent,Paytm,Monthly house rent,8722.1,543.75
+2024-10-05,Entertainment,Visa,Day off,5106.49,68.19
+2024-10-17,Groceries,Gpay,Monthly groceries,5280.83,111.64
+2024-10-20,Utilities,Paytm,Water bill,5162.41,34.77
+2024-10-25,Subscription,Credit_card,Netflix,3767.57,66.51
+2024-10-22,Rent,Credit_card,Monthly house rent,7135.94,516.09
+2024-10-29,Insurance,Paytm,Life,5208.71,300.15
+2024-10-09,Insurance,Cash,Life,6988.38,570.04
+2024-10-10,Travel,Paypal,Accommodation,6458.38,616.43
+2024-10-24,Utilities,Paypal,Internet bill,9960.32,415.88
+2024-10-27,Rent,Credit_card,Monthly house rent,8900.09,103.82
+2024-10-15,Insurance,Gpay,Life,4704.68,407.66
+2024-10-22,Groceries,Paytm,Monthly groceries,2352.96,59.57
+2024-10-02,Insurance,Bank_transfer,Life,8304.92,817.85
+2024-10-11,Utilities,Paytm,Water bill,7139.37,290.66
+2024-10-17,Groceries,Cash,Monthly groceries,7931.79,163.52
+2024-10-28,Entertainment,Gpay,Day off,6847.28,410.15
+2024-10-23,Entertainment,Check,Tour,7990.3,46.43
+2024-10-16,Insurance,Debit_card,Car,4763.72,376.25
+2024-10-08,Groceries,Credit_card,Monthly groceries,3126.28,12.9
+2024-10-04,Rent,Paypal,Monthly house rent,5506.05,350.19
+2024-10-27,Groceries,Debit_card,Monthly groceries,5806.56,454.18
+2024-10-15,Entertainment,Check,Day off,7821.28,707.76
+2024-10-26,Insurance,Check,Life,2736.13,104.83
+2024-10-10,Rent,Debit_card,Monthly house rent,2037.94,122.97
+2024-10-24,Subscription,Cash,Amazon Prime,2746.33,171.76
+2024-10-09,Utilities,Paypal,Electricity bill,3101.57,22.88
+2024-10-02,Groceries,Debit_card,Monthly groceries,2242.44,61.43
+2024-10-21,Subscription,Check,Amazon Prime,3198.05,98.8
+2024-10-27,Entertainment,Credit_card,Tour,6743.61,170.97
+2024-10-18,Subscription,Check,Amazon Prime,7785.2,642.11
+2024-10-21,Utilities,Paypal,Internet bill,4710.77,259.08
+2024-10-08,Entertainment,Cash,Went to movies,2536.12,216.16
+2024-10-08,Insurance,Paytm,Life,4095.59,392.94
+2024-10-26,Utilities,Credit_card,Internet bill,5544.89,202.66
+2024-10-30,Groceries,Paypal,Monthly groceries,2065.66,178.67
+2024-10-27,Groceries,Bank_transfer,Monthly groceries,8410.7,304.97
+2024-10-17,Utilities,Paypal,Electricity bill,9675.46,193.65
+2024-10-23,Groceries,Visa,Monthly groceries,8370.6,667.36
+2024-10-19,Groceries,Paytm,Monthly groceries,3405.79,95.16
+2024-10-04,Travel,Gpay,Accommodation,2464.95,133.72
+2024-10-20,Insurance,Credit_card,Car,1291.65,9.17
+2024-10-09,Insurance,Visa,Car,5277.77,312.54
+2024-10-04,Rent,Credit_card,Monthly house rent,8631.08,54.63
+2024-10-10,Rent,Check,Monthly house rent,7427.14,262.68
+2024-10-06,Entertainment,Paypal,Day off,8863.67,236.0
+2024-10-15,Utilities,Debit_card,Electricity bill,3100.65,72.58
+2024-10-09,Insurance,Paypal,Life,1392.39,75.72
+2024-10-28,Subscription,Visa,Amazon Prime,8582.43,828.56
+2024-10-11,Entertainment,Bank_transfer,Tour,7851.96,71.22
+2024-10-30,Entertainment,Cash,Went to movies,1128.06,108.89
+2024-10-27,Insurance,Debit_card,Car,2767.37,154.09
+2024-10-08,Groceries,Debit_card,Monthly groceries,5382.45,14.66
+2024-10-10,Travel,Cash,Transportation,5308.06,340.48
+2024-10-22,Utilities,Bank_transfer,Electricity bill,9688.67,857.58
+2024-10-01,Subscription,Bank_transfer,Amazon Prime,4447.85,129.77
+2024-10-07,Entertainment,Check,Day off,9709.48,537.8
+2024-10-20,Groceries,Visa,Monthly groceries,8757.06,196.26
+2024-10-18,Utilities,Bank_transfer,Electricity bill,8685.39,182.78
+2024-10-11,Subscription,Credit_card,Netflix,9599.83,376.08
+2024-10-11,Groceries,Credit_card,Monthly groceries,5773.51,302.57
+2024-10-12,Rent,Debit_card,Monthly house rent,1795.95,144.63
+2024-10-13,Entertainment,Check,Day off,4400.94,48.16
+2024-10-29,Travel,Check,Accommodation,6432.59,479.46
+2024-10-17,Utilities,Visa,Internet bill,4305.29,402.3
+2024-10-19,Groceries,Credit_card,Monthly groceries,4774.01,230.83
+2024-10-22,Insurance,Check,Life,8488.03,288.8
+2024-10-09,Rent,Check,Monthly house rent,5357.58,243.53
+2024-10-30,Groceries,Gpay,Monthly groceries,6507.43,56.15
+2024-10-04,Groceries,Debit_card,Monthly groceries,3695.44,112.85
+2024-10-04,Entertainment,Credit_card,Tour,5892.61,362.0
+2024-10-29,Travel,Gpay,Accommodation,6148.86,382.85
+2024-10-26,Utilities,Cash,Water bill,3828.46,232.28
+2024-10-02,Entertainment,Visa,Tour,9400.14,106.85
+2024-11-16,Utilities,Debit_card,Internet bill,9714.06,674.1
+2024-11-27,Insurance,Paypal,Car,8454.45,702.58
+2024-11-15,Entertainment,Cash,Went to movies,8186.21,284.46
+2024-11-06,Rent,Cash,Monthly house rent,4596.48,112.49
+2024-11-11,Utilities,Gpay,Water bill,1628.65,97.29
+2024-11-15,Rent,Check,Monthly house rent,6548.97,212.12
+2024-11-11,Groceries,Gpay,Monthly groceries,8656.49,639.3
+2024-11-17,Entertainment,Cash,Tour,1691.53,125.47
+2024-11-23,Utilities,Gpay,Water bill,6396.69,154.61
+2024-11-22,Travel,Visa,Transportation,2178.6,202.15
+2024-11-09,Insurance,Visa,Life,7434.0,528.46
+2024-11-07,Rent,Credit_card,Monthly house rent,8285.7,423.71
+2024-11-18,Groceries,Gpay,Monthly groceries,5142.04,349.18
+2024-11-23,Insurance,Cash,Car,1751.96,25.12
+2024-11-02,Insurance,Paytm,Car,6600.04,261.58
+2024-11-24,Rent,Debit_card,Monthly house rent,5528.51,142.39
+2024-11-20,Entertainment,Gpay,Day off,4168.98,396.31
+2024-11-28,Groceries,Paypal,Monthly groceries,2387.97,6.25
+2024-11-13,Subscription,Visa,Amazon Prime,5148.62,181.03
+2024-11-07,Groceries,Paypal,Monthly groceries,2667.35,150.62
+2024-11-01,Rent,Cash,Monthly house rent,5323.96,108.32
+2024-11-14,Groceries,Bank_transfer,Monthly groceries,9311.32,524.25
+2024-11-01,Travel,Bank_transfer,Flights,4675.76,278.63
+2024-11-18,Rent,Visa,Monthly house rent,8648.83,12.29
+2024-11-10,Rent,Gpay,Monthly house rent,7569.02,443.88
+2024-11-27,Entertainment,Bank_transfer,Went to movies,7825.82,650.79
+2024-11-07,Rent,Paypal,Monthly house rent,2666.4,0.8
+2024-11-18,Travel,Gpay,Accommodation,4682.75,256.3
+2024-11-10,Utilities,Visa,Water bill,8329.64,724.59
+2024-11-18,Subscription,Credit_card,Netflix,8009.63,374.74
+2024-11-07,Utilities,Debit_card,Electricity bill,1440.17,62.48
+2024-11-06,Rent,Debit_card,Monthly house rent,8366.46,170.0
+2024-11-21,Groceries,Paytm,Monthly groceries,9152.35,4.91
+2024-11-11,Insurance,Paypal,Life,2768.41,122.17
+2024-11-27,Utilities,Paytm,Internet bill,7235.84,185.45
+2024-11-23,Travel,Paytm,Flights,9333.91,123.02
+2024-11-26,Rent,Cash,Monthly house rent,7013.09,131.18
+2024-11-10,Groceries,Visa,Monthly groceries,2366.77,214.64
+2024-11-11,Insurance,Check,Life,5974.75,291.68
+2024-11-20,Insurance,Cash,Life,7346.31,568.44
+2024-11-14,Subscription,Gpay,Amazon Prime,8763.35,55.79
+2024-11-08,Groceries,Debit_card,Monthly groceries,5646.68,376.19
+2024-11-14,Subscription,Bank_transfer,Amazon Prime,9482.76,176.81
+2024-11-15,Entertainment,Bank_transfer,Tour,3173.69,291.61
+2024-11-29,Utilities,Cash,Internet bill,5473.5,186.95
+2024-11-23,Entertainment,Paypal,Went to movies,5744.96,469.2
+2024-11-15,Groceries,Paypal,Monthly groceries,6648.3,205.45
+2024-11-05,Rent,Paypal,Monthly house rent,9882.43,59.27
+2024-11-24,Groceries,Visa,Monthly groceries,8335.71,209.47
+2024-11-16,Rent,Debit_card,Monthly house rent,1485.04,45.62
+2024-11-19,Insurance,Paytm,Life,2350.8,113.05
+2024-11-11,Subscription,Credit_card,Netflix,3889.53,134.76
+2024-11-08,Utilities,Paypal,Electricity bill,6974.21,428.6
+2024-11-27,Utilities,Check,Electricity bill,1391.52,84.45
+2024-11-10,Travel,Paytm,Flights,2997.34,48.33
+2024-11-09,Insurance,Debit_card,Car,2394.81,12.32
+2024-11-17,Utilities,Paypal,Electricity bill,7062.93,291.16
+2024-11-05,Insurance,Credit_card,Life,7588.79,48.93
+2024-11-04,Entertainment,Cash,Day off,3224.97,116.9
+2024-11-19,Groceries,Debit_card,Monthly groceries,3581.83,75.05
+2024-11-29,Subscription,Paypal,Amazon Prime,5988.15,243.91
+2024-11-07,Groceries,Cash,Monthly groceries,2269.69,8.34
+2024-11-12,Rent,Gpay,Monthly house rent,9327.99,708.36
+2024-11-26,Utilities,Bank_transfer,Electricity bill,4401.14,207.07
+2024-11-01,Entertainment,Paypal,Went to movies,1169.54,110.59
+2024-11-14,Utilities,Credit_card,Water bill,1427.93,12.14
+2024-11-13,Insurance,Paytm,Car,3119.48,4.17
+2024-11-09,Insurance,Visa,Car,4622.43,72.27
+2024-11-01,Rent,Bank_transfer,Monthly house rent,8751.95,716.52
+2024-11-05,Rent,Check,Monthly house rent,2858.13,240.68
+2024-11-23,Utilities,Credit_card,Electricity bill,1742.63,57.56
+2024-11-07,Insurance,Bank_transfer,Car,2324.13,116.86
+2024-11-16,Utilities,Credit_card,Electricity bill,9933.84,980.49
+2024-11-24,Groceries,Debit_card,Monthly groceries,6691.75,570.1
+2024-11-14,Travel,Credit_card,Accommodation,5513.82,172.23
+2024-11-11,Utilities,Gpay,Water bill,6162.24,237.41
+2024-11-13,Rent,Debit_card,Monthly house rent,5019.07,264.74
+2024-11-29,Groceries,Visa,Monthly groceries,3278.72,191.3
+2024-11-20,Entertainment,Cash,Tour,1431.06,99.1
+2024-11-14,Groceries,Credit_card,Monthly groceries,9412.72,166.8
+2024-11-16,Rent,Gpay,Monthly house rent,4453.85,231.69
+2024-11-11,Travel,Cash,Transportation,3331.3,284.93
+2024-11-22,Insurance,Paytm,Life,9615.77,651.98
+2024-11-08,Insurance,Paytm,Car,4623.16,60.68
+2024-11-18,Utilities,Credit_card,Electricity bill,1694.2,169.42
+2024-11-22,Groceries,Bank_transfer,Monthly groceries,1886.25,114.39
+2024-11-26,Rent,Visa,Monthly house rent,5908.78,554.44
+2024-11-20,Travel,Credit_card,Flights,5015.04,84.91
+2024-11-19,Utilities,Credit_card,Internet bill,3854.92,72.03
+2024-11-10,Subscription,Cash,Amazon Prime,4083.37,8.79
+2024-11-14,Rent,Credit_card,Monthly house rent,4798.26,410.72
+2024-11-23,Subscription,Cash,Netflix,8467.02,611.99
+2024-11-28,Groceries,Debit_card,Monthly groceries,1969.23,182.92
+2024-11-14,Subscription,Paytm,Netflix,1100.45,71.56
+2024-11-18,Travel,Credit_card,Transportation,3586.38,105.12
+2024-11-13,Subscription,Visa,Netflix,1812.75,39.44
+2024-11-06,Subscription,Paypal,Netflix,9835.67,782.35
+2024-11-08,Groceries,Gpay,Monthly groceries,5710.81,239.26
+2024-11-28,Insurance,Debit_card,Life,4042.64,16.55
+2024-11-07,Insurance,Debit_card,Life,3059.16,102.76
+2024-11-11,Entertainment,Cash,Went to movies,6283.75,288.23
+2024-11-21,Insurance,Debit_card,Life,9597.91,264.76
+2024-11-18,Utilities,Credit_card,Internet bill,2781.71,132.51
+2024-11-05,Utilities,Paytm,Electricity bill,4974.15,217.36
+2024-11-01,Subscription,Debit_card,Netflix,6775.91,262.47
+2024-11-05,Utilities,Paytm,Electricity bill,1223.28,15.28
+2024-11-02,Insurance,Visa,Car,6771.36,76.01
+2024-11-16,Subscription,Visa,Amazon Prime,5762.54,240.43
+2024-11-23,Groceries,Paypal,Monthly groceries,7428.92,502.45
+2024-11-07,Rent,Visa,Monthly house rent,6624.47,597.89
+2024-11-01,Subscription,Check,Netflix,4368.22,96.52
+2024-11-12,Subscription,Cash,Amazon Prime,1751.72,130.52
+2024-11-26,Insurance,Paypal,Car,8275.79,659.8
+2024-11-18,Insurance,Bank_transfer,Life,2373.92,203.54
+2024-11-03,Utilities,Visa,Electricity bill,4823.36,90.37
+2024-11-05,Subscription,Credit_card,Amazon Prime,5330.2,342.48
+2024-11-17,Rent,Cash,Monthly house rent,5248.65,419.84
+2024-11-21,Utilities,Credit_card,Internet bill,7201.99,82.08
+2024-11-03,Rent,Check,Monthly house rent,9563.86,270.48
+2024-11-25,Travel,Cash,Accommodation,2980.35,24.41
+2024-11-02,Insurance,Cash,Car,2712.93,152.83
+2024-11-03,Subscription,Credit_card,Amazon Prime,8572.76,695.88
+2024-11-22,Travel,Bank_transfer,Accommodation,4108.54,407.62
+2024-11-21,Entertainment,Paypal,Day off,9304.17,561.8
+2024-11-12,Subscription,Visa,Amazon Prime,2037.78,23.19
+2024-11-11,Entertainment,Debit_card,Went to movies,7046.82,262.92
+2024-11-25,Entertainment,Paytm,Went to movies,7267.85,18.67
+2024-11-04,Groceries,Bank_transfer,Monthly groceries,3559.09,64.33
+2024-11-29,Rent,Cash,Monthly house rent,3834.56,240.72
+2024-11-29,Subscription,Debit_card,Amazon Prime,9017.55,392.51
+2024-11-04,Subscription,Bank_transfer,Amazon Prime,7683.72,745.76
+2024-11-14,Insurance,Check,Car,1415.22,12.32
+2024-11-06,Insurance,Cash,Car,5351.96,11.08
+2024-11-08,Entertainment,Visa,Went to movies,7503.5,194.71
+2024-11-03,Travel,Paytm,Transportation,7225.8,246.67
+2024-11-16,Travel,Credit_card,Transportation,4741.91,139.89
+2024-11-27,Travel,Check,Flights,1086.99,47.24
+2024-11-28,Entertainment,Paytm,Tour,4696.09,351.56
+2024-11-01,Insurance,Gpay,Car,9969.84,824.79
+2024-11-11,Utilities,Debit_card,Internet bill,7664.56,675.03
+2024-11-11,Travel,Credit_card,Transportation,8393.32,554.64
+2024-11-07,Groceries,Gpay,Monthly groceries,1219.41,110.67
+2024-11-19,Insurance,Paypal,Car,6685.81,220.45
+2024-11-02,Travel,Check,Flights,2266.25,39.69
+2024-11-19,Subscription,Paypal,Amazon Prime,9079.75,194.48
+2024-11-27,Travel,Credit_card,Flights,7124.76,665.06
+2024-11-13,Rent,Credit_card,Monthly house rent,2371.65,98.91
+2024-11-09,Groceries,Debit_card,Monthly groceries,3911.48,68.23
+2024-11-15,Utilities,Paytm,Electricity bill,9248.0,455.07
+2024-11-02,Entertainment,Credit_card,Went to movies,4676.08,299.7
+2024-12-25,Groceries,Gpay,Monthly groceries,6647.53,660.02
+2024-12-05,Rent,Visa,Monthly house rent,6900.03,609.76
+2024-12-10,Groceries,Bank_transfer,Monthly groceries,8262.28,583.89
+2024-12-29,Insurance,Check,Life,8261.57,69.38
+2024-12-18,Insurance,Credit_card,Car,6897.84,142.37
+2024-12-23,Subscription,Visa,Netflix,9623.39,261.12
+2024-12-09,Insurance,Bank_transfer,Car,6248.7,427.65
+2024-12-04,Insurance,Check,Life,7963.7,570.83
+2024-12-09,Utilities,Check,Electricity bill,6167.5,473.79
+2024-12-10,Subscription,Paypal,Netflix,5759.99,354.54
+2024-12-06,Insurance,Debit_card,Car,4345.65,330.46
+2024-12-11,Insurance,Debit_card,Car,9417.9,818.02
+2024-12-20,Travel,Cash,Accommodation,1202.56,28.67
+2024-12-27,Rent,Credit_card,Monthly house rent,1356.55,13.39
+2024-12-06,Insurance,Cash,Life,5351.93,113.7
+2024-12-15,Rent,Credit_card,Monthly house rent,8144.21,129.57
+2024-12-16,Insurance,Credit_card,Life,3577.13,224.99
+2024-12-05,Travel,Gpay,Flights,6564.12,34.86
+2024-12-08,Subscription,Check,Netflix,1466.93,145.23
+2024-12-01,Utilities,Visa,Water bill,8829.51,253.14
+2024-12-17,Rent,Paypal,Monthly house rent,3612.99,268.46
+2024-12-04,Utilities,Credit_card,Internet bill,5654.57,317.85
+2024-12-26,Insurance,Visa,Car,7011.99,325.68
+2024-12-27,Insurance,Credit_card,Life,3335.64,100.1
+2024-12-01,Travel,Cash,Accommodation,4785.46,207.97
+2024-12-13,Groceries,Credit_card,Monthly groceries,6465.24,118.86
+2024-12-11,Travel,Cash,Flights,8718.06,158.71
+2024-12-05,Utilities,Check,Water bill,8762.51,24.46
+2024-12-18,Travel,Bank_transfer,Accommodation,8823.1,546.35
+2024-12-03,Insurance,Paytm,Car,1200.49,45.33
+2024-12-14,Entertainment,Bank_transfer,Went to movies,1711.96,146.76
+2024-12-04,Entertainment,Credit_card,Day off,4378.95,25.25
+2024-12-26,Groceries,Gpay,Monthly groceries,7980.11,324.88
+2024-12-09,Entertainment,Credit_card,Day off,1149.6,94.02
+2024-12-23,Utilities,Cash,Water bill,3453.95,326.1
+2024-12-03,Utilities,Bank_transfer,Electricity bill,3158.05,29.54
+2024-12-27,Rent,Bank_transfer,Monthly house rent,6918.1,476.22
+2024-12-10,Insurance,Check,Car,9087.78,338.6
+2024-12-03,Groceries,Credit_card,Monthly groceries,9203.66,542.21
+2024-12-24,Rent,Check,Monthly house rent,4437.8,79.15
+2024-12-22,Entertainment,Credit_card,Day off,4990.89,410.95
+2024-12-29,Entertainment,Check,Went to movies,5655.23,340.91
+2024-12-21,Entertainment,Debit_card,Went to movies,8483.46,86.91
+2024-12-03,Travel,Visa,Transportation,3999.01,13.87
+2024-12-20,Entertainment,Check,Tour,6529.44,256.16
+2024-12-18,Travel,Credit_card,Flights,9423.62,325.64
+2024-12-14,Rent,Debit_card,Monthly house rent,2944.32,103.42
+2024-12-07,Utilities,Cash,Water bill,3630.93,350.35
+2024-12-13,Rent,Paytm,Monthly house rent,4211.89,403.39
+2024-12-30,Subscription,Paytm,Netflix,1053.77,52.41
+2024-12-08,Insurance,Gpay,Life,7936.17,69.53
+2024-12-22,Insurance,Check,Car,6601.87,548.68
+2024-12-09,Subscription,Visa,Amazon Prime,9407.42,889.83
+2024-12-14,Groceries,Cash,Monthly groceries,5212.08,460.04
+2024-12-21,Groceries,Bank_transfer,Monthly groceries,3461.27,332.35
+2024-12-01,Utilities,Check,Internet bill,1679.98,130.19
+2024-12-25,Utilities,Paytm,Water bill,4679.14,310.54
+2024-12-04,Entertainment,Cash,Went to movies,5940.89,587.33
+2024-12-07,Rent,Debit_card,Monthly house rent,3781.0,179.19
+2024-12-18,Rent,Paytm,Monthly house rent,2778.45,190.0
+2024-12-02,Travel,Bank_transfer,Transportation,2690.06,252.48
+2024-12-22,Travel,Gpay,Transportation,8535.84,429.25
+2024-12-09,Insurance,Credit_card,Life,3457.72,29.96
+2024-12-19,Travel,Paypal,Transportation,7798.74,99.66
+2024-12-03,Travel,Bank_transfer,Flights,6615.29,583.0
+2024-12-11,Entertainment,Visa,Day off,7535.58,159.22
+2024-12-11,Insurance,Debit_card,Life,7296.83,36.57
+2024-12-06,Utilities,Credit_card,Water bill,5212.96,164.49
+2024-12-22,Utilities,Cash,Electricity bill,3525.79,175.66
+2024-12-21,Insurance,Visa,Car,9640.85,210.15
+2024-12-23,Utilities,Credit_card,Water bill,5044.22,106.38
+2024-12-03,Rent,Debit_card,Monthly house rent,5580.55,167.71
+2024-12-18,Utilities,Visa,Water bill,1386.76,124.44
+2024-12-03,Rent,Gpay,Monthly house rent,6298.05,93.93
+2024-12-25,Travel,Gpay,Accommodation,5943.46,14.64
+2024-12-30,Rent,Cash,Monthly house rent,2677.46,244.32
+2024-12-18,Utilities,Gpay,Water bill,8948.77,120.23
+2024-12-13,Insurance,Paytm,Car,5528.91,152.78
+2024-12-05,Entertainment,Gpay,Went to movies,1041.06,28.02
+2024-12-27,Subscription,Visa,Netflix,4573.38,204.2
+2024-12-13,Insurance,Cash,Life,8045.93,721.86
+2024-12-07,Utilities,Debit_card,Internet bill,6739.24,636.41
+2024-12-17,Travel,Debit_card,Flights,7995.17,439.83
+2024-12-20,Utilities,Bank_transfer,Water bill,7505.05,222.39
+2024-12-28,Rent,Paytm,Monthly house rent,5238.0,328.73
+2024-12-30,Groceries,Credit_card,Monthly groceries,1809.66,154.87
+2024-12-05,Subscription,Paytm,Netflix,2266.39,107.09
+2024-12-04,Insurance,Paytm,Car,1885.11,152.23
+2024-12-23,Utilities,Check,Internet bill,2950.45,213.19
+2024-12-17,Travel,Paypal,Transportation,2574.21,65.6
+2024-12-23,Travel,Credit_card,Flights,2230.01,205.92
+2024-12-23,Subscription,Cash,Amazon Prime,9211.92,585.13
+2024-12-25,Groceries,Debit_card,Monthly groceries,6912.73,250.44
+2024-12-28,Travel,Debit_card,Flights,9298.39,500.54
+2024-12-27,Travel,Paytm,Flights,3794.68,30.15
+2024-12-14,Groceries,Cash,Monthly groceries,6691.6,494.6
+2024-12-05,Entertainment,Gpay,Tour,7101.62,415.92
+2024-12-15,Utilities,Debit_card,Internet bill,9016.54,119.92
+2024-12-22,Utilities,Bank_transfer,Water bill,5610.72,62.77
+2024-12-07,Subscription,Paytm,Amazon Prime,9317.07,642.53
+2024-12-12,Groceries,Paypal,Monthly groceries,9095.41,219.54
+2024-12-28,Groceries,Gpay,Monthly groceries,8518.87,142.03
+2024-12-20,Travel,Credit_card,Flights,4536.76,129.99
+2024-12-04,Entertainment,Paytm,Went to movies,8830.71,10.35
+2024-12-17,Utilities,Bank_transfer,Electricity bill,4676.35,139.12
+2024-12-25,Subscription,Debit_card,Amazon Prime,1485.21,43.67
+2024-12-21,Utilities,Cash,Electricity bill,5640.79,525.63
+2024-12-01,Groceries,Cash,Monthly groceries,6116.55,339.1
+2024-12-13,Travel,Gpay,Flights,5500.09,191.96
+2024-12-05,Subscription,Bank_transfer,Amazon Prime,4116.11,317.52
+2024-12-11,Insurance,Paytm,Life,9335.75,583.97
+2024-12-06,Travel,Bank_transfer,Accommodation,6489.17,188.69
+2024-12-05,Subscription,Credit_card,Netflix,2621.91,44.96
+2024-12-03,Rent,Credit_card,Monthly house rent,8964.29,618.43
+2024-12-17,Groceries,Check,Monthly groceries,2423.68,42.54
+2024-12-07,Rent,Gpay,Monthly house rent,4666.68,359.41
+2024-12-15,Rent,Visa,Monthly house rent,2441.64,129.18
+2024-12-23,Rent,Credit_card,Monthly house rent,7704.75,318.34
+2024-12-18,Insurance,Credit_card,Life,1171.56,64.33
+2024-12-30,Entertainment,Paytm,Day off,9808.51,189.26
+2024-12-01,Travel,Credit_card,Transportation,2108.27,4.82
+2024-12-28,Entertainment,Debit_card,Tour,7726.74,451.88
+2024-12-28,Insurance,Gpay,Car,1340.67,80.15
+2024-12-15,Travel,Visa,Flights,7488.52,348.04
+2024-12-26,Entertainment,Check,Tour,7680.0,478.05
+2024-12-29,Travel,Bank_transfer,Accommodation,8988.77,694.18
+2024-12-24,Travel,Visa,Transportation,9387.88,617.74
+2024-12-16,Entertainment,Bank_transfer,Went to movies,6958.17,338.6
+2024-12-18,Insurance,Paytm,Life,5506.65,127.53
+2024-12-19,Travel,Credit_card,Flights,7531.0,468.6
+2024-12-16,Travel,Paypal,Flights,1856.13,137.85
+2024-12-07,Insurance,Paypal,Car,9210.28,229.56
+2024-12-19,Rent,Debit_card,Monthly house rent,3949.87,213.42
+2024-12-24,Rent,Gpay,Monthly house rent,6718.97,432.82
+2024-12-04,Entertainment,Debit_card,Day off,5877.47,45.69
+2024-12-24,Insurance,Bank_transfer,Life,9069.99,172.51
+2024-12-20,Subscription,Credit_card,Netflix,2433.73,39.68
+2024-12-05,Travel,Visa,Transportation,4205.37,370.4
+2024-12-21,Groceries,Gpay,Monthly groceries,6073.78,217.28
+2024-12-24,Subscription,Credit_card,Amazon Prime,6987.23,95.05
+2024-12-27,Subscription,Credit_card,Amazon Prime,9437.99,701.99
+2024-12-08,Insurance,Cash,Car,3032.58,88.15
+2024-12-15,Entertainment,Debit_card,Day off,4582.42,439.9
+2024-12-10,Insurance,Visa,Car,7556.26,269.29
+2024-12-01,Subscription,Bank_transfer,Amazon Prime,1906.28,149.47
+2024-12-10,Entertainment,Debit_card,Day off,7082.13,599.38
+2024-12-30,Travel,Bank_transfer,Accommodation,8376.65,802.41
+2024-12-03,Utilities,Bank_transfer,Electricity bill,9237.21,65.41
+2024-12-15,Subscription,Cash,Netflix,5505.0,364.16
+2024-12-21,Entertainment,Bank_transfer,Went to movies,6194.95,331.7
