@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
 from faker import Faker
-from datetime import date
+from datetime import date, timedelta
 
 # Initialize Faker
 fake = Faker()
@@ -25,74 +25,70 @@ Description = {
     'Subscription': ['Netflix', 'Amazon Prime']
 }
 
-# Function to generate random expense data
-def get_expense(entries, start_date, end_date):
-    values = []
-    for _ in range(entries):
-        amount = round(random.uniform(1000, 10000), 2)
-        category = random.choice(Categories)
-
-        # Choose description correctly
-        if isinstance(Description[category], list):
-            description = random.choice(Description[category])
-        else:
-            description = Description[category]
-
-        expenses = (
-            fake.date_between(start_date=start_date, end_date=end_date),
-            category,
-            random.choice(Payment_mode),
-            description,
-            amount,
-            round(random.uniform(0, 0.1) * amount, 2)
-        )
-        values.append(expenses)
-    return values
-
 # SQLite Database Setup
-conn = sqlite3.connect("expenses.db")
+conn = sqlite3.connect("expenses.db", check_same_thread=False)
 cursor = conn.cursor()
 
 # Create Table
 cursor.execute('''CREATE TABLE IF NOT EXISTS Expense_Table (
-                    DATE DATE ,
+                    DATE TEXT,
                     CATEGORIES TEXT, 
                     PAYMENT_MODE TEXT, 
                     DESCRIPTION TEXT, 
                     AMOUNTS REAL, 
                     CASHBACK REAL)''')
-
 conn.commit()
+# Load or create expense data
+@st.cache_data
+def load_data():
+    try:
+        return pd.read_sql("SELECT * FROM Expense_Table", conn)
+    except:
+        return pd.DataFrame(columns=["DATE", "CATEGORIES", "PAYMENT_MODE", "DESCRIPTION", "AMOUNTS", "CASHBACK"])
 
-# Streamlit UI
-st.title("💰 Expense Tracker")
+df = load_data()
 
-# Sidebar Menu
-option = st.sidebar.radio("Select an option", ["Add Expenses", "View & Analyze"])
+# Sidebar Navigation
+st.sidebar.title("Expense Tracker")
+page = st.sidebar.radio("Go to", ["Add Expense", "View Expenses", "Analyze Expenses"])
 
-# Option 1: Add Expenses
-if option == "Add Expenses":
-    st.subheader("📌 Generate and Store Random Expenses")
-
-    entries = st.number_input("Enter number of expenses:", min_value=1, max_value=1000, value=10)
-    if st.button("Generate & Store"):
-        expenses = get_expense(entries, date(2024, 1, 1), date(2024, 12, 31))
-        cursor.executemany("INSERT INTO Expense_Table VALUES (?,?,?,?,?,?)", expenses)
+# 1️⃣ **Add Expense Page**
+if page == "Add Expense":
+    st.title("📝 Add Expense")
+    
+    with st.form("expense_form"):
+        expense_date = st.date_input("Select Date", value=date.today())
+        category = st.selectbox("Category", Categories)
+        description = st.text_input("Description", value=random.choice(Description[category]) if isinstance(Description[category], list) else Description[category])
+        amount = st.number_input("Amount ($)", min_value=0.0, step=0.01)
+        payment_mode = st.selectbox("Payment Mode", Payment_mode)
+        cashback = st.number_input("Cashback Earned ($)", min_value=0.0, step=0.01)
+        submit_button = st.form_submit_button("Add Expense")
+    
+    if submit_button:
+        cursor.execute("INSERT INTO Expense_Table VALUES (?, ?, ?, ?, ?, ?)", 
+                       (str(expense_date), category, payment_mode, description, amount, cashback))
         conn.commit()
-        st.success(f"{entries} expenses added successfully!")
+        st.toast("Expense added successfully!", icon="✅")
+        st.cache_data.clear()  # Clear cache to refresh the table
 
-# Option 2: View & Analyze
-elif option == "View & Analyze":
-    st.subheader("📊 Expense Analysis")
+# 2. View Expenses Page
+elif page == "View Expenses":
+    st.title("📜 View Expenses")
+    df = load_data()
+    st.dataframe(df)
 
-    # Fetch data from SQLite
-    df = pd.read_sql("SELECT * FROM Expense_Table", conn)
-
+# 3. Analyze Expenses Page
+elif page == "Analyze Expenses":
+    st.title("📊 Expense Analysis")
+    df = load_data()
+    
     if df.empty:
-        st.warning("No expenses found! Please add some data.")
+        st.warning("No expense data available for analysis.")
     else:
-        st.dataframe(df)
-
+        df["DATE"] = pd.to_datetime(df["DATE"])
+        df["MONTH"] = df["DATE"].dt.strftime("%Y-%m")
+          
         # **1. Total Expense by Category**
         st.subheader("💼 Total Expense by Category")
         category_expense = df.groupby("CATEGORIES")["AMOUNTS"].sum().reset_index()
@@ -253,7 +249,7 @@ elif option == "View & Analyze":
         plt.xticks(rotation=45)  # Rotate labels for better readability
         plt.grid(axis="y", linestyle="--", alpha=0.7)
         st.pyplot(fig)
-
+        
 
 # Close Database Connection
 conn.close()
